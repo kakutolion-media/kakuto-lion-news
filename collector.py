@@ -89,6 +89,7 @@ def norm_title(title: str) -> str:
     # Google Newsの「タイトル - 媒体名」から媒体名を落とし、記号・空白を除去して
     # 媒体横断（サンスポ/dメニュー等の同一配信記事）でも重複判定できる形にする
     t = re.sub(r"\s*[-–|]\s*[^-–|]{1,25}$", "", title)
+    t = re.sub(r"[（(][^（）()]{1,25}[）)]\s*$", "", t)  # Yahoo転載の「（ゴング格闘技）」等
     t = re.sub(r"[【】\[\]「」『』〝〟“”\"'、。，．,.…・:：;；!！?？\s　]+", "", t.lower())
     return t[:60]
 
@@ -143,7 +144,12 @@ def parse_feed(name: str, raw: bytes, genre: str) -> list:
 def collect() -> list:
     old = []
     if DATA_FILE.exists():
-        old = json.loads(DATA_FILE.read_text())
+        # 正規化ルール変更時にも重複が残らないよう、既存分もidを再計算してマージ
+        migrated = {}
+        for i in json.loads(DATA_FILE.read_text()):
+            i["id"] = hashlib.md5(norm_title(i["title"]).encode()).hexdigest()[:12]
+            migrated.setdefault(i["id"], i)
+        old = list(migrated.values())
     seen = {i["id"] for i in old}
     added = 0
     for name, url, genre in FEEDS:
