@@ -161,6 +161,7 @@ def collect() -> list:
         migrated = {}
         for i in json.loads(DATA_FILE.read_text()):
             i["id"] = hashlib.md5(norm_title(i["title"]).encode()).hexdigest()[:12]
+            i["desc"] = trim_excerpt(i.get("desc", ""))
             migrated.setdefault(i["id"], i)
         old = list(migrated.values())
     seen = {i["id"] for i in old}
