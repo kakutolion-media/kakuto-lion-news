@@ -1,5 +1,25 @@
 [
 {
+"id": "402e2d2b198e",
+"title": "Main Event Preview | UFC Oklahoma City",
+"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5EamVPaGtZZ256LWpPWFRJVmtwMTBPbmZlTzlKZ2ZVTzVCc3BpcGtVeDRMdjFJa2hzUE9LeHo3d29NU1hsdGc?oc=5",
+"source": "UFC.com",
+"genre": "mma",
+"cat": "news",
+"desc": "Main Event Preview | UFC Oklahoma City UFC.com",
+"ts": "2026-07-18T05:52:36+09:00"
+},
+{
+"id": "8fc43d34b68a",
+"title": "バンタム強打対決 ボクシングトリプル世界戦 比嘉 打ち合いに活路 増田 右ジャブがカギ",
+"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93dnBXdEliaE5YLWYxazAtdjZFTlJoc0hqMWNfZXdDMTZQNHM5LUlBcWp1TzUxaS1kdHB4al9hYXNHVWl2Qy0xWTdCRlBOdU1RM2s0Ym04Rmt1UWp2YVE?oc=5",
+"source": "沖縄タイムス社",
+"genre": "boxing",
+"cat": "news",
+"desc": "バンタム強打対決 ボクシングトリプル世界戦 比嘉 打ち合いに活路 増田 右ジャブがカギ 沖縄タイムス社",
+"ts": "2026-07-18T03:58:00+09:00"
+},
+{
 "id": "c37d762e75e0",
 "title": "Weigh-In Highlights | UFC Oklahoma City",
 "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAwN0tkM25IekN2VGw1Z0NmbHNBOWRDNWxUVExQeWZBYkRYc2RlcjFCYmhPX2ItVjRoeU54Y3pTYW9qUUduRVE?oc=5",
@@ -290,6 +310,16 @@
 "ts": "2026-07-17T19:11:42+09:00"
 },
 {
+"id": "7879828ac901",
+"title": "「AJ」vs イタウマはナイジェリア開催で“新境地”を切り開くか？ | ボクシング（DAZN News）",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ad05XcGhRb1M5aXBGMHlrcG1Dc0QzVTJFSjVVQm5kWGdzQk9kTnpTMkRFTDhFNGFablhDcUo5bzFxY2Ewc1daalZESFFYS1RnbzkwNzFRck1yUW01Q0tSVEZITjdMejUycE1wZ0Rkb2d0bU10Wk1FTDc5bGZEVkk?oc=5",
+"source": "Yahoo!ニュース",
+"genre": "boxing",
+"cat": "rumor",
+"desc": "「AJ」vs イタウマはナイジェリア開催で“新境地”を切り開くか？",
+"ts": "2026-07-17T19:11:42+09:00"
+},
+{
 "id": "c9102d4044b8",
 "title": "フューリーの「ジョシュア戦前哨戦」を巡る批判は行き過ぎなのか？ | ボクシング（DAZN News）",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SaEpPUjRRc2xMR2YtNjFiZkxUenZxZGxOYUlnd2N3R3hRa3VxLWtXNWlDZVRKVks2d1JfV1FzWmNKeTZTaGkxZmVkSmFTMGp1bmFFTnF3Qm4xY3Z1eG51bl9QbmlOME5tek1MX0c3VDlWR1F1VTZQWHlGclNrUUk?oc=5",
@@ -311,6 +341,16 @@
 },
 {
 "id": "e4d4a0903752",
+"title": "【プレビュー】アンソニー・ジョシュア vs クリスティアン・プレンガ：ジョシュアがカムバック | ボクシング（DAZN News）",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mNWNJU2V3TTAxVFQ4dXR0dWpTTnBDQnFBVk1KdHdlUEwwV3JDNDdBZEJDNzhiOVM5ZHY4LWZIRzJuU3lVbVh3WHkycjZiVU5HM2pKSy1ycDgxSUVYR2V0UFd1VUVnbXlsZFFoMG96VmlKc2k5VTd4MjRzQndCM2s?oc=5",
+"source": "Yahoo!ニュース",
+"genre": "boxing",
+"cat": "news",
+"desc": "【プレビュー】アンソニー・ジョシュア vs クリスティアン・プレンガ：ジョシュアがカムバック | ボクシング（DAZN News） Yahoo!ニュース",
+"ts": "2026-07-17T19:11:15+09:00"
+},
+{
+"id": "04aa90164da3",
 "title": "【プレビュー】アンソニー・ジョシュア vs クリスティアン・プレンガ：ジョシュアがカムバック | ボクシング（DAZN News）",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mNWNJU2V3TTAxVFQ4dXR0dWpTTnBDQnFBVk1KdHdlUEwwV3JDNDdBZEJDNzhiOVM5ZHY4LWZIRzJuU3lVbVh3WHkycjZiVU5HM2pKSy1ycDgxSUVYR2V0UFd1VUVnbXlsZFFoMG96VmlKc2k5VTd4MjRzQndCM2s?oc=5",
 "source": "Yahoo!ニュース",
@@ -810,16 +850,6 @@
 "ts": "2026-07-17T12:40:37+09:00"
 },
 {
-"id": "04aa90164da3",
-"title": "【プレビュー】アンソニー・ジョシュア vs クリスティアン・プレンガ：ジョシュアがカムバック | ボクシング",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWmVOZXBvMzBTRUIyTDZodUFsVUxXWVhOaW5CeFhhU0lUUnRoblkyZHN4YldxdnBYVkNwOXhtb2NaQmw2eS1TemlOdnVSSDNwU3NJa1UxRFhVQ29mcVU1b0NudS16R3dIQWcxLWNhRDdqaHQwejJnUXZBOWFjdUhSUzQ2TkE5c0xkZENmZ1U0UHk2OXdPem8takhReTU1WmdIT2VBYWNHWldDTUF5LVdnbFl2WkJQOG85aVdJRUNlX3ZtejNOZ3Jjc29QRm5iOFNSV2R2a2JoSnNvR00?oc=5",
-"source": "DAZN",
-"genre": "boxing",
-"cat": "news",
-"desc": "【プレビュー】アンソニー・ジョシュア vs クリスティアン・プレンガ：ジョシュアがカムバック | ボクシング DAZN",
-"ts": "2026-07-17T12:15:03+09:00"
-},
-{
 "id": "1bbbcd0d85f4",
 "title": "「K-1のタイガー・ジェット・シンやダルシムを発掘したい」須藤元気Pが語るインドの可能性、カンボジアに続いて韓国では日韓対抗戦も（ゴング格闘技）",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzZUllVWRjNk1DMV85WmRyLXR1LXJ1OGJ2Nk5FY1BxVkVpUHdkZ2RUN0UxdHA5ZzZCLWtETm5aTVE4c2NjbnYzcGsxcXR3S3NhU1F0TTBWUkloMU1CZmx5YVJTYTFUdDBaMExSOWtLOGllbVZjQUlKejZUQlV4ME0?oc=5",
@@ -951,16 +981,6 @@
 },
 {
 "id": "b54544ff84c8",
-"title": "Cold Open | UFC Oklahoma City",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wMmM2ak80U2tZRUItMngxZF8zalNpYU0tdFdvYjRsOWNjcExzLXBzY1UzMlpJeFRKSWI3dktGNUhvdHBHTFE?oc=5",
-"source": "UFC.com",
-"genre": "mma",
-"cat": "news",
-"desc": "Cold Open | UFC Oklahoma City UFC.com",
-"ts": "2026-07-17T08:29:21+09:00"
-},
-{
-"id": "80e8b003cf08",
 "title": "Cold Open | UFC Oklahoma City",
 "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wMmM2ak80U2tZRUItMngxZF8zalNpYU0tdFdvYjRsOWNjcExzLXBzY1UzMlpJeFRKSWI3dktGNUhvdHBHTFE?oc=5",
 "source": "UFC.com",
@@ -2040,16 +2060,6 @@
 "ts": "2026-07-16T06:05:52+09:00"
 },
 {
-"id": "b1da21156dc2",
-"title": "Jean-Paul Lebosnoyani: \"I Am A Swiss Army Knife\" | UFC Oklahoma City",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBBTjhvLXBPNW54UzhNek1FNWFFY3RWSHdON1EwNlJfdGFMcm5pcUNjT0xFR3dxNDcyckRxM3l6RFp3bGFkMkE?oc=5",
-"source": "UFC.com",
-"genre": "mma",
-"cat": "news",
-"desc": "Jean-Paul Lebosnoyani: \"I Am A Swiss Army Knife\" | UFC Oklahoma City UFC.com",
-"ts": "2026-07-16T06:05:52+09:00"
-},
-{
 "id": "671771d465cb",
 "title": "Fatima Kline: \"It Takes A Village To Build A Champion\" | UFC Oklahoma City",
 "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5nOXNwZVdaaXZkYVdxTnpZTXlYbENyNkdBY0hLLXkxY2sweEFxQ0o4bTdCLWU4R1pBNjhPMzNfSnlzb1hMVEE?oc=5",
@@ -2658,6 +2668,16 @@
 "cat": "info",
 "desc": "サバテロvs鹿志村ほか RIZINランドマーク15 in HIROSHIMAの日程・PPV放送配信・カード・チケットなど大会情報まとめ sportingnews.com",
 "ts": "2026-07-15T06:00:02+09:00"
+},
+{
+"id": "a1f00b1e6c45",
+"title": "【1ページ目】井上尚弥の対戦候補バムはバンタム級最強？ 井上拓真＆堤聖也に「勝つ」と元世界王者",
+"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BVDFwS3JKVWdHNUZYMGMzSTZSUE5XWFhUNmhlYkR1VUpXal9heExtY0stUEdMWWwwR1Q0Nm1pcWFtOU5ZVnJhTVU0aG9vS0VIS2MtaVRnTDBjYXZ1YzRodjVSUlJzUQ?oc=5",
+"source": "東スポWEB",
+"genre": "boxing",
+"cat": "news",
+"desc": "【1ページ目】井上尚弥の対戦候補バムはバンタム級最強？",
+"ts": "2026-07-15T06:00:00+09:00"
 },
 {
 "id": "71586ae54a9c",
@@ -3710,6 +3730,16 @@
 "ts": "2026-07-09T19:57:47+09:00"
 },
 {
+"id": "8dcb4eec7aeb",
+"title": "「一瞬、井上尚弥かと…」“激似ボクサー”に視線集中 左右逆も「ほんとに似てるわ」本人公認（THE ANSWER）",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeWhITGNVeU91eXZKUFVibTBBQkc4aDZWOWNickdENExFWEsxbldwOUZfN1dRMEVpXzBVb3pjTWpVbnV0X3AzbldIQ3FubTYwdnpyU3gyMUtuakNXRGh0VFdCN2ZCQnVEaGhULVI5NEY3bUZQTklsT3NLNXl1akk?oc=5",
+"source": "Yahoo!ニュース",
+"genre": "boxing",
+"cat": "news",
+"desc": "「一瞬、井上尚弥かと…」“激似ボクサー”に視線集中 左右逆も「ほんとに似てるわ」本人公認（THE ANSWER） Yahoo!ニュース",
+"ts": "2026-07-09T16:00:00+09:00"
+},
+{
 "id": "5d9eae30652f",
 "title": "王者・石田龍大が「ゾクゾクはしないけどワクワクはする選手」挑戦者の大久保琉唯を評価。大久保は「恋愛と格闘技は一緒」と持論を展開【K-1】",
 "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HU3FZVkliejRvb2F3Y19FZWlyQTNOb3QxRnpwYTlWZS02U3Y5NW1ROGdjVG9GeHJxSXRFdEhncHp5d254Y3dZWC1ObElaUQ?oc=5",
@@ -3840,16 +3870,6 @@
 "ts": "2026-07-06T16:00:00+09:00"
 },
 {
-"id": "f39feb9d784b",
-"title": "朝倉未来の格闘技重視のサブチャンネル、ほぼ全動画を非公開へ メンバー限定動画へ移行か",
-"link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxNTJjN2RoWnFncUhMVlhkWG9mMzkwSEIzcWhZc0ZMUV8xY3BVd19FWlg2TFlRczZFa1FiZ1oySTBLMnNlejlpVA?oc=5",
-"source": "KAI-YOU",
-"genre": "mma",
-"cat": "news",
-"desc": "朝倉未来の格闘技重視のサブチャンネル、ほぼ全動画を非公開へ メンバー限定動画へ移行か KAI-YOU",
-"ts": "2026-07-06T16:00:00+09:00"
-},
-{
 "id": "e06f281a8b77",
 "title": "【ブレイキングダウン】溝口勇児氏、北海道大会で〝無敗対決〟実現へ 朝倉未来「言っていいっすよ」",
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFJpdE1iMXNBd0h5NXFPcExoWE9XQWVZWlhHWEZrM0cyemktWF9ZNkloakRkRWhKMWVaZUFSZXVzbms2Z3FtaU5uSlRXM3hNZ05EU1F6TE1lczEwa0tTR3Q3RVFYdUxSR3lqXzBJMU54Ti1nNWRkOXFFSjNNVUxkTktlRHpNVXlJUTlaUnpNMkF4MW9m0gGKAUFVX3lxTE9PRVRHal9CQkwzdVMtamwtZDJmOGY5YS0zcUIwQWZqa0F4SmNnRTREQTVPQS02MS1LWGRkMGJHNl93akE2ODlyM0dOeFJEN0E1akVjcnVENzlGakhrMW5MRHRiM1AteHJtNXlYVHYwWHdLU3hLbW9OOFZ6NDdpOEl3dU16Y2hsdGhXZw?oc=5",
@@ -3857,6 +3877,16 @@
 "genre": "mma",
 "cat": "news",
 "desc": "【ブレイキングダウン】溝口勇児氏、北海道大会で〝無敗対決〟実現へ 朝倉未来「言っていいっすよ」 サンスポ",
+"ts": "2026-07-06T16:00:00+09:00"
+},
+{
+"id": "f39feb9d784b",
+"title": "朝倉未来の格闘技重視のサブチャンネル、ほぼ全動画を非公開へ メンバー限定動画へ移行か",
+"link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxNTJjN2RoWnFncUhMVlhkWG9mMzkwSEIzcWhZc0ZMUV8xY3BVd19FWlg2TFlRczZFa1FiZ1oySTBLMnNlejlpVA?oc=5",
+"source": "KAI-YOU",
+"genre": "mma",
+"cat": "news",
+"desc": "朝倉未来の格闘技重視のサブチャンネル、ほぼ全動画を非公開へ メンバー限定動画へ移行か KAI-YOU",
 "ts": "2026-07-06T16:00:00+09:00"
 },
 {
