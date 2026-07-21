@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>格闘ライオン｜入口</title>
+<meta name="description" content="格闘技が10倍面白くなる🦁 名KOの技術分析・試合予想・毎日の格闘ニュース。全部ここから。">
+<style>
+  :root{
+    --bg:#0a0a0c; --card:#15151a; --card2:#1c1c22;
+    --gold:#e8b64c; --gold-soft:#f0cd7d; --ink:#f4f2ee; --sub:#9a9aa4;
+    --line:#2a2a32;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    background:var(--bg); color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Yu Gothic",sans-serif;
+    -webkit-font-smoothing:antialiased; line-height:1.6;
+    min-height:100vh;
+    background-image:radial-gradient(120% 60% at 50% -10%, rgba(232,182,76,.16), transparent 60%);
+    padding:28px 18px 48px;
+  }
+  .wrap{max-width:440px;margin:0 auto}
+  /* header */
+  .hd{text-align:center;margin-bottom:20px}
+  .lion{font-size:52px;line-height:1;filter:drop-shadow(0 4px 14px rgba(232,182,76,.35))}
+  .name{font-size:24px;font-weight:800;letter-spacing:.04em;margin-top:6px}
+  .name .g{color:var(--gold)}
+  .tag{color:var(--sub);font-size:13.5px;margin-top:4px}
+  .proof{display:inline-block;margin-top:10px;font-size:12px;color:var(--gold-soft);
+    border:1px solid var(--line);border-radius:999px;padding:4px 12px;background:rgba(232,182,76,.06)}
+  /* dream */
+  .dream{margin:22px 0 24px;padding:16px 16px 16px 18px;background:linear-gradient(180deg,#141419,#101014);
+    border:1px solid var(--line);border-left:3px solid var(--gold);border-radius:14px}
+  .dream h2{font-size:13px;color:var(--gold);letter-spacing:.06em;margin-bottom:8px;font-weight:700}
+  .dream p{font-size:13.5px;color:#d9d7d1}
+  .dream .big{color:var(--ink);font-weight:700}
+  /* cards */
+  .cards{display:flex;flex-direction:column;gap:11px}
+  a.card{
+    display:flex;align-items:center;gap:14px;text-decoration:none;color:var(--ink);
+    background:var(--card);border:1px solid var(--line);border-radius:15px;padding:15px 16px;
+    transition:transform .12s ease,border-color .12s ease,background .12s ease;
+  }
+  a.card:active{transform:scale(.985)}
+  @media(hover:hover){a.card:hover{background:var(--card2);border-color:#3a3a44;transform:translateY(-1px)}}
+  .ic{font-size:24px;width:34px;text-align:center;flex:none}
+  .tx{flex:1;min-width:0}
+  .tt{font-size:15.5px;font-weight:700}
+  .ss{font-size:12px;color:var(--sub);margin-top:1px}
+  .arw{color:#55555f;font-size:18px;flex:none}
+  /* primary card = 控室 */
+  a.card.pri{
+    background:linear-gradient(135deg,#e8b64c,#d59b2c);border-color:#f0cd7d;color:#1a1305;
+    box-shadow:0 8px 24px rgba(232,182,76,.22);
+  }
+  a.card.pri .ss{color:#5a4410}
+  a.card.pri .arw{color:#7a5c14}
+  @media(hover:hover){a.card.pri:hover{background:linear-gradient(135deg,#f0c25a,#e0a634)}}
+  .free{font-size:11px;font-weight:700;background:rgba(26,19,5,.18);color:#3a2c08;
+    border-radius:6px;padding:2px 7px;margin-left:8px;white-space:nowrap}
+  /* todo marker */
+  .todo{outline:1px dashed #6a5a2a;position:relative}
+  .todo::after{content:"URL未設定";position:absolute;top:8px;right:12px;font-size:10px;
+    color:#c9a95a;background:rgba(232,182,76,.1);border-radius:5px;padding:1px 6px}
+  /* footer */
+  .ft{text-align:center;color:var(--sub);font-size:12px;margin-top:26px;line-height:1.7}
+  .ft b{color:var(--gold-soft)}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="hd">
+    <div class="lion">🦁</div>
+    <div class="name">格闘<span class="g">ライオン</span></div>
+    <div class="tag">フォローすると格闘技が10倍面白くなる</div>
+    <div class="proof">Instagram解説リール 2万再生突破</div>
+  </div>
+
+  <div class="dream">
+    <h2>🦁 このアカウントには夢がある</h2>
+    <p><span class="big">フォロワー1万人＝支援を始められるライン。</span>
+    あなたのフォロー1回が、1人の選手の人生を変える、いちばん簡単な方法です。</p>
+  </div>
+
+  <div class="cards">
+
+    <a class="card pri" href="https://lin.ee/XHxHtIw" data-key="line">
+      <span class="ic">🦁</span>
+      <span class="tx">
+        <span class="tt">LINE控室に入る<span class="free">無料・匿名OK</span></span>
+        <span class="ss">試合予想バトル／分析データ先出し／当日は一番熱い実況部屋</span>
+      </span>
+      <span class="arw">›</span>
+    </a>
+
+    <a class="card" href="https://note.com/bankyo110" data-key="note">
+      <span class="ic">📊</span>
+      <span class="tx">
+        <span class="tt">note｜試合予想＆深掘り分析</span>
+        <span class="ss">勝敗予想と根拠、試合後の答え合わせまで</span>
+      </span>
+      <span class="arw">›</span>
+    </a>
+
+    <a class="card" href="https://www.youtube.com/@kakutolion" data-key="yt">
+      <span class="ic">▶️</span>
+      <span class="tx">
+        <span class="tt">YouTube｜名KOと技術分析</span>
+        <span class="ss">歴史に残る名KOと「なぜ勝てたか」を王の視点で</span>
+      </span>
+      <span class="arw">›</span>
+    </a>
+
+    <a class="card" href="https://www.instagram.com/kakutolion/" data-key="ig">
+      <span class="ic">📷</span>
+      <span class="tx">
+        <span class="tt">Instagram｜解説リール</span>
+        <span class="ss">2万再生突破の試合解説リール</span>
+      </span>
+      <span class="arw">›</span>
+    </a>
+
+    <a class="card" href="https://www.threads.com/@kakutolion" data-key="threads">
+      <span class="ic">🧵</span>
+      <span class="tx">
+        <span class="tt">Threads</span>
+        <span class="ss">速報・論争・一撃データで毎日つぶやく</span>
+      </span>
+      <span class="arw">›</span>
+    </a>
+
+    <a class="card" href="https://www.tiktok.com/@kakutolion" data-key="tiktok">
+      <span class="ic">🎵</span>
+      <span class="tx">
+        <span class="tt">TikTok</span>
+        <span class="ss">縦型ショートで名場面と解説</span>
+      </span>
+      <span class="arw">›</span>
+    </a>
+
+    <a class="card" href="https://bankyo110.github.io/kakuto-lion-news/" data-key="news">
+      <span class="ic">📰</span>
+      <span class="tx">
+        <span class="tt">格闘ライオンNEWS</span>
+        <span class="ss">RIZIN・UFC・ボクシングの最新ニュースを毎日自動更新</span>
+      </span>
+      <span class="arw">›</span>
+    </a>
+
+  </div>
+
+  <div class="ft">
+    フォローして、この<b>挑戦者</b>になってください🦁
+  </div>
+
+</div>
+</body>
+</html>

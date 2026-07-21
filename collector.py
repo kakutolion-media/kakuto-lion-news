@@ -191,6 +191,14 @@ def build_site(items: list):
     SITE_FILE.parent.mkdir(parents=True, exist_ok=True)
     SITE_FILE.write_text(out)
     print(f"site built: {SITE_FILE} ({len(items)} items)")
+    # 入口リンク集ページ（bio用ハブ）を site/link/index.html に配置。
+    # 元ファイル link_page.html はリポジトリ管理下。site/ はgitignoreのためCIで毎回コピーする。
+    link_src = BASE / "link_page.html"
+    if link_src.exists():
+        link_dst = BASE / "site" / "link" / "index.html"
+        link_dst.parent.mkdir(parents=True, exist_ok=True)
+        link_dst.write_text(link_src.read_text())
+        print(f"link hub built: {link_dst}")
 
 
 if __name__ == "__main__":
