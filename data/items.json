@@ -2070,6 +2070,16 @@
 "ts": "2026-07-23T11:01:08+09:00"
 },
 {
+"id": "9cdeb761dc7d",
+"title": "【RIZIN】広報・横島加奈、1日限りのアイドル復活 「Chu-Z」847日ぶりライブ開催",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2UzSUhYcU9iTnVUOUlFenh1SXB5bE5EOEJrSkJxc2hBQmViZjJTMlluUWxHWFlmckRLTTJVN29TYmJ1QW41dmluRmIxZkNNWTVkaDhESm5FY0Rld3RCSnBwRXRHYlhyMzVUM3MtSmNWVGFmQ0Z3OUFXY2JvUTREenR3VlpNQXFTbVFPV1BtMlNJV0VaSzhlcVh6MA?oc=5",
+"source": "産経ニュース",
+"genre": "mma",
+"cat": "info",
+"desc": "【RIZIN】広報・横島加奈、1日限りのアイドル復活 「Chu-Z」847日ぶりライブ開催 産経ニュース",
+"ts": "2026-07-23T11:01:08+09:00"
+},
+{
 "id": "d0a09a2ab19b",
 "title": "近畿インターハイ、岩手はレスリングや陸上が上位期待 ボクシング、重量挙げ、ホッケー、卓球も注目",
 "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DeGIzLUlWUURDMXIyUEJ0VFNTMTdsYkQyT0RYblEzV1ctVEJBQWRWTFczVjVBNzNBYlg4NGg3anVKS0xpWGtiemxDSXhjdWdJOEVjcDZidEp1WnhWV1hrLQ?oc=5",
@@ -2121,16 +2131,6 @@
 },
 {
 "id": "3353afe73fe2",
-"title": "オリコンニュース：［RIZIN］広報・横島加奈、1日限りのアイドル復活 「Chu-Z」847日ぶりライブ開催",
-"link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mZXNmTDdIU1lEVHA0ZWk2WjBPdXMwRG9ZZmNLbU1DbFhYTkp3aGVDVzdlNDNqQzdLeXpDeFJPTzk0NnFMUGlqbXQ2ODAyRU1Oc1lOZmhzRE1kNG1vYXlFRnY0SWpnakhI?oc=5",
-"source": "毎日新聞",
-"genre": "mma",
-"cat": "info",
-"desc": "オリコンニュース：［RIZIN］広報・横島加奈、1日限りのアイドル復活 「Chu-Z」847日ぶりライブ開催 毎日新聞",
-"ts": "2026-07-23T10:00:00+09:00"
-},
-{
-"id": "cc9474743761",
 "title": "オリコンニュース：［RIZIN］広報・横島加奈、1日限りのアイドル復活 「Chu-Z」847日ぶりライブ開催",
 "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mZXNmTDdIU1lEVHA0ZWk2WjBPdXMwRG9ZZmNLbU1DbFhYTkp3aGVDVzdlNDNqQzdLeXpDeFJPTzk0NnFMUGlqbXQ2ODAyRU1Oc1lOZmhzRE1kNG1vYXlFRnY0SWpnakhI?oc=5",
 "source": "毎日新聞",
@@ -3757,16 +3757,6 @@
 "genre": "mma",
 "cat": "news",
 "desc": "Valter Walker: 'I Break His Foot, Take The Money And Go Home' | UFC Abu Dhabi UFC.com",
-"ts": "2026-07-21T18:30:06+09:00"
-},
-{
-"id": "64b2f4f89335",
-"title": "Bogdan Guskov: 'Next Step Is Title Shot' | UFC Abu Dhabi",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Rb1dVLUMtUlpxVEVVREFSdFFhVDFiZnBHZXZJd0Z1NHYwODhvOE9qbks0akFxcWFTSlFqd0hrYUdGdW1CdkE?oc=5",
-"source": "UFC.com",
-"genre": "mma",
-"cat": "news",
-"desc": "Bogdan Guskov: 'Next Step Is Title Shot' | UFC Abu Dhabi UFC.com",
 "ts": "2026-07-21T18:30:06+09:00"
 },
 {
@@ -7998,5 +7988,15 @@
 "cat": "result",
 "desc": "【UFC】DDPデュ・プレシがウスマンがウスマンに左ハイ効かせて判定勝ち再起「タイトルに挑戦させてくれ」（ゴング格闘技） Yahoo!ニュース",
 "ts": "2026-07-19T12:42:36+09:00"
+},
+{
+"id": "17fb983e1fd2",
+"title": "abc presents RIZIN LANDMARK 15 in HIROSHIMA 試合結果一覧",
+"link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNY2NSTkZHemNhcWM3Q1l0aG9FWkVlWHQ1SHlKbUQ4V1BHcWxqUFphMHl2b0M3OERYNlZOTDZzTWxCQmhEVHVBeTkzOA?oc=5",
+"source": "RIZIN",
+"genre": "mma",
+"cat": "news",
+"desc": "abc presents RIZIN LANDMARK 15 in HIROSHIMA 試合結果一覧 RIZIN",
+"ts": "2026-07-19T12:39:38+09:00"
 }
 ]
