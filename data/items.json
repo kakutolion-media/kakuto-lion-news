@@ -1,5 +1,15 @@
 [
 {
+"id": "4a4d719b4fa9",
+"title": "「史上最強」ボクシング島根、目指せインターハイ入賞ラッシュ 選抜王者・松江西の兵主、選抜２位の出雲西・田中ら９人 ５日競技開始",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WVjBsaklFYlJaUU1BWVB6QmhkSGxxYVFZVTVsaXNwajVtaWN1OGRqcTNmM3FrMnhYMVJQZ0tPNEtleS1Oak5RT1VKdnNwQUExdW5UOFpCZVdHWnM?oc=5",
+"source": "山陰中央新報デジタル",
+"genre": "boxing",
+"cat": "news",
+"desc": "「史上最強」ボクシング島根、目指せインターハイ入賞ラッシュ 選抜王者・松江西の兵主、選抜２位の出雲西・田中ら９人 ５日競技開始 山陰中央新報デジタル",
+"ts": "2026-08-04T04:00:00+09:00"
+},
+{
 "id": "429aec8bbcdd",
 "title": "坪井智也、いよいよ世界初挑戦 南アのマラジカと対戦 9.27Prime Video Boxing16",
 "link": "https://boxingnews.jp/news/117433/",
@@ -57,16 +67,6 @@
 "genre": "boxing",
 "cat": "news",
 "desc": "ボクシング世界王者・増田陸選手を祝福、広島市東区のホテルで100人がねぎらい 中国新聞デジタル",
-"ts": "2026-08-03T21:43:00+09:00"
-},
-{
-"id": "5f36b8cf44a8",
-"title": "ボクシング世界王者・増田陸選手を祝福、広島市東区のホテルで100人がねぎらい",
-"link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4NTRBb2VDOU1Hd2ZIX1lzSW9fbHZuNTlFQzBLWjlJUHZiWVpLUnEtZGdkY3NPd081THFuZEJNV1hJUkNTRnZQX2dFSDJvcUdGdGdSTzYxNEZBdw?oc=5",
-"source": "chugoku-np.co.jp",
-"genre": "boxing",
-"cat": "news",
-"desc": "ボクシング世界王者・増田陸選手を祝福、広島市東区のホテルで100人がねぎらい chugoku-np.co.jp",
 "ts": "2026-08-03T21:43:00+09:00"
 },
 {
@@ -568,6 +568,16 @@
 "cat": "news",
 "desc": "RIZIN ケイト・ロータス、左膝関節外側側副靱帯損傷、膝窩筋損傷のため「RIZIN.54」を欠場…試合は10・3に延期 ｄメニューニュース",
 "ts": "2026-08-03T13:00:00+09:00"
+},
+{
+"id": "46c7ac743a42",
+"title": "RIZIN 8.11 トヨタアリーナ東京：ケイト・ロータスの左膝の負傷でNOEL戦は10.3 長崎に延期｜試合順発表。チケット完売",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4NjhpQkg2QzM3WGdVY3BzR3ZoSVVxVUhGR0t0dUhpYXpXS3VyN3NidmNFbWUxbTBScVZUa1VVTUd1akNkTmVhYW9QRXY0QmxkNlpPNHA0YjRNYXFHbnlF?oc=5",
+"source": "BOUTREVIEW",
+"genre": "mma",
+"cat": "info",
+"desc": "RIZIN 8.11 トヨタアリーナ東京：ケイト・ロータスの左膝の負傷でNOEL戦は10.3 長崎に延期｜試合順発表。",
+"ts": "2026-08-03T12:52:44+09:00"
 },
 {
 "id": "a692bb6151df",
@@ -7988,15 +7998,5 @@
 "cat": "info",
 "desc": "現地時間25日、オーストラリアのシドニー・オリンピック・パークにてノー・リミット・ボクシング主催興行が開催。",
 "ts": "2026-07-26T15:11:55+09:00"
-},
-{
-"id": "1fea23b60aec",
-"title": "天心「自分の思い伝えられなかった」“ぐだぐだ”屋外会見から仕切り直しの意思表明「あの日の自分超える」",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTFJd2txaW1QZU5IRElxbFp0aS1EMHI5RWl0MV9XRU5RbGZvaDVIc1FYc0syTUNFa09sRmUyUzEtOHZqenF1M2h0VnBVbTVad2U4YmRocTVWZG5McU1NX1RCd0FUeEtIMHQ3Zm1nUTdFYlBmQm93S1JHLWE4TGFVOTMzOVpOcW9KV0JXcQ?oc=5",
-"source": "スポニチ Sponichi Annex",
-"genre": "boxing",
-"cat": "info",
-"desc": "天心「自分の思い伝えられなかった」“ぐだぐだ”屋外会見から仕切り直しの意思表明「あの日の自分超える」 スポニチ Sponichi Annex",
-"ts": "2026-07-26T15:06:00+09:00"
 }
 ]
