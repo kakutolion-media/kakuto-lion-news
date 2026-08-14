@@ -100,7 +100,7 @@
 "ts": "2026-08-14T21:43:12+09:00"
 },
 {
-"id": "1a1c77c08e7d",
+"id": "728923cc8714",
 "title": "石井武志「研ぎ澄ませる」 ボクシング",
 "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ELU1PczdkSVB3MFl6T2h2VzJmV21iQ19ldWJwX19jZ01qRWFKWTlVZUJLV2MxazR0c3BQTUFEb3VLZVY4WUxMU0FER0Q5bnJOdkdXeU9Hd1lpSms?oc=5",
 "source": "zushi-hayama.keizai.biz",
@@ -393,7 +393,7 @@
 "id": "488d996c64de",
 "title": "王者・横山朋哉、初防衛の相手はクン・クメール王者に！カンボジアの強豪は、一体どんな選手なのか？＝9・12 K-1代々木第二",
 "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pbTkwcGhhU2kwTkNmN3RlUG1DSjN6Z0t2RXJpNXZ5MC0xS25NZEtIRmF5NUp4WXlKR05maVJxNGU1d241bDI0NTN2Z0loV3It?oc=5",
-"source": "fan.pia.jp",
+"source": "チケットぴあ",
 "genre": "general",
 "cat": "result",
 "desc": "王者・横山朋哉、初防衛の相手はクン・クメール王者に！",
@@ -458,16 +458,6 @@
 "cat": "news",
 "desc": "３３２２ efight.jp",
 "ts": "2026-08-14T17:53:01+09:00"
-},
-{
-"id": "728923cc8714",
-"title": "石井武志「研ぎ澄ませる」 ボクシング",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUk13bm5YWlRobGdRSk1iTFczUXl0azUzTzU1X0pUVUFveVVHX1RmVDBtTlhueVZVR21YekdHUkJQM3RmWjVkYXVMOFVQWVpneUhIeUZnZ1lHeFZQTU1VMzBOV2pSd0djRl9OZ3oycW1LeTBpRUxETzdnTXJsaUZLTNIBhgFBVV95cUxQeWtXdDZ3NjZHUFh3ckExSVNtTlhLWHl2Y3ZmU00wc3lZMXotZzVqVktfMmxXN0lVa1d3bF9SN3ZRUVVjRUFENG5tbk51S2VJOGhuZnZQQ1Q3SGdtV01TRm5DcmZ5dFN0R2IzbExrWDlLUDRmT0Z2QkVBYlVlbXVUQUVBdDFBdw?oc=5",
-"source": "ｄメニューニュース",
-"genre": "boxing",
-"cat": "news",
-"desc": "石井武志「研ぎ澄ませる」 ボクシング ｄメニューニュース",
-"ts": "2026-08-14T17:53:00+09:00"
 },
 {
 "id": "831b9af25ecd",
@@ -1484,16 +1474,6 @@
 "title": "「殴らない」ボクシング。触れるだけの新スポーツが始まる",
 "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhMzA5eE9CNDN6ZS1lbzRxOC1zV3dGclU1Y2diTVZSdlZJa3JtMmlFNEFOVG5VX0c4N0w0ZWl4WnAyUEZ2VW5sMm5Vclh1MkxNMjM5Z3g1eW5wVmM?oc=5",
 "source": "TABI LABO",
-"genre": "boxing",
-"cat": "news",
-"desc": "「殴らない」ボクシング。",
-"ts": "2026-08-13T19:00:00+09:00"
-},
-{
-"id": "3564aac6f838",
-"title": "「殴らない」ボクシング。触れるだけの新スポーツが始まる",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhMzA5eE9CNDN6ZS1lbzRxOC1zV3dGclU1Y2diTVZSdlZJa3JtMmlFNEFOVG5VX0c4N0w0ZWl4WnAyUEZ2VW5sMm5Vclh1MkxNMjM5Z3g1eW5wVmM?oc=5",
-"source": "tabi-labo.com",
 "genre": "boxing",
 "cat": "news",
 "desc": "「殴らない」ボクシング。",
@@ -3490,6 +3470,16 @@
 "ts": "2026-08-11T18:46:56+09:00"
 },
 {
+"id": "05d7a6197dec",
+"title": "【全試合結果】RIZIN.54（ライジン）20歳の秋元強真が元王者クレベル・コイケに3-0完勝 〝怪物〟エドポロキングは2回KO勝ち",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOWY0aGtGZzBxZUVyV3BZVkZlQmc3RFdFUXhjTXFXVlNoekxkWWlvSWVnWTdTZ3BTejB6VUswbGRmQkNBUVFmUEVvcU1VUGFqaEhaRTZXY2Y1enpvTS02RE1uX0J0TmlyWnk1ekVsSzNoanljdS1Fc2phTW1LejNKTjZ0TkdLeDc1UXFNdWlsOFE1VU120gGKAUFVX3lxTE14YkJET0RJU1NCMjhmRlJTaFBNYWpMSVJyMW1Vbm9XS0J1OVV5aGt5OVRZTnA4TFlNbEljdGxWWUxCYnQtbEI3c3hPeWxkOU5rNXdVeG1tRmp3UGNqZi1tVnFWYTFzVElQZUJ5Nmh5VHNvbGRGMnpWdmx4U2RSdTdiS1hlQlhHS1dCZw?oc=5",
+"source": "sanspo.com",
+"genre": "mma",
+"cat": "result",
+"desc": "【全試合結果】RIZIN.54（ライジン）20歳の秋元強真が元王者クレベル・コイケに3-0完勝 〝怪物〟エドポロキングは2回KO勝ち sanspo.com",
+"ts": "2026-08-11T18:46:56+09:00"
+},
+{
 "id": "cc11868f54c4",
 "title": "【RIZIN】秋元強真が完勝！クレベルに判定勝利、次期挑戦者名乗りも…左手骨折か「折れちゃったぽい」",
 "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzFhVV84U01McG15V0Q5WndpN0lvR05YRGdKbWpNQTFYRWxiZkpPZl8yWnluWEJuVXdDWXpydmdFXzNKRnpQTEVBN3laYTdTNDd2MVBjejNYeWdQZkVpT0RLWTJGMFNyaW9MaVh3RF9qZHM0MTV4bDZUZ2VnZktNOVFkUUhicDV0QzdNTQ?oc=5",
@@ -3718,6 +3708,16 @@
 "cat": "result",
 "desc": "【RIZIN】伊藤裕樹がガジャマトフKOし大みそか名古屋大会確定「誠！",
 "ts": "2026-08-11T17:28:00+09:00"
+},
+{
+"id": "bba88990186c",
+"title": "【RIZIN】ジョリー「だっさ！顎割れた」 平本丈に96秒殺KO負け…ブラックローズへ「降参」",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZmMxQ3V0OVhKd3FvRE13Z2dEWVVQRXJCalRwQ0ZIVlBSNGZNQS14UEhHWGVpakF4ZnBkRmllTmN0MmNTeGFWdmdoVkxqeDhKQ2R0aVh1OVRzZUc0Q19GWXpKQkpaam5zdGd3Vi1aRjJxRUpLMW94ejgyZzBWRDJyR3RCLWtTdWp2d1UydA?oc=5",
+"source": "スポニチ Sponichi Annex",
+"genre": "mma",
+"cat": "result",
+"desc": "【RIZIN】ジョリー「だっさ！",
+"ts": "2026-08-11T17:25:00+09:00"
 },
 {
 "id": "cf78dd2fabfa",
@@ -4411,6 +4411,16 @@
 },
 {
 "id": "15aa7353e628",
+"title": "【Krush】ウェルター級王者の齋藤紘也が初防衛戦、挑戦者はKNOCK OUT-UNLIMITEDトーナメントを制した石田協",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16TWw5UEpUcUpxN1lzcVRGMkg0UkIyTXVPWFNRMXBlWVNOZzFucVZ2SEs1akFQVEdaQU1kekp5RkxRenBrNTUwSmZEY3o0RjhOZVZmdVN1TWJPRy1iQjY0RXNsVklOUm52OV9XaFNWNUNqWDFmeS01VUNDeTM3U1k?oc=5",
+"source": "Yahoo!ニュース",
+"genre": "general",
+"cat": "result",
+"desc": "【Krush】ウェルター級王者の齋藤紘也が初防衛戦、挑戦者はKNOCK OUT-UNLIMITEDトーナメントを制した石田協 Yahoo!ニュース",
+"ts": "2026-08-10T21:54:27+09:00"
+},
+{
+"id": "40c74eb6f100",
 "title": "【Krush】ウェルター級王者の齋藤紘也が初防衛戦、挑戦者はKNOCK OUT-UNLIMITEDトーナメントを制した石田協",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16TWw5UEpUcUpxN1lzcVRGMkg0UkIyTXVPWFNRMXBlWVNOZzFucVZ2SEs1akFQVEdaQU1kekp5RkxRenBrNTUwSmZEY3o0RjhOZVZmdVN1TWJPRy1iQjY0RXNsVklOUm52OV9XaFNWNUNqWDFmeS01VUNDeTM3U1k?oc=5",
 "source": "Yahoo!ニュース",
@@ -7683,10 +7693,10 @@
 "id": "ac16e6a7ee1f",
 "title": "武尊の元マネージャーが挑む「持続可能なK-1」経営の技法：大木知葉（M-1スポーツメディア代表取締役）",
 "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtNjk0M1h3YjlBd0tLa2U3a1FKVWcyM1hvVTdsTWRtX3JXUEFhY2QzY0NkZlRLOVdLbEFBZFV4VmVESnhSOWMwV2U2QzFsekl0SUhBZ3lyajQ1UQ?oc=5",
-"source": "forbesjapan.com",
+"source": "Forbes JAPAN",
 "genre": "general",
 "cat": "news",
-"desc": "武尊の元マネージャーが挑む「持続可能なK-1」経営の技法：大木知葉（M-1スポーツメディア代表取締役） forbesjapan.com",
+"desc": "武尊の元マネージャーが挑む「持続可能なK-1」経営の技法：大木知葉（M-1スポーツメディア代表取締役） Forbes JAPAN",
 "ts": "2026-08-03T16:00:00+09:00"
 },
 {
@@ -7988,15 +7998,5 @@
 "cat": "news",
 "desc": "兄弟で臨む最初で最後のインターハイ！",
 "ts": "2026-08-03T12:13:00+09:00"
-},
-{
-"id": "8810ae3a0a3c",
-"title": "【RIZIN】武尊がかつてのライバル那須川天心に「格闘家としては天才的なものを持ってる選手なので、ボクシングでも頂点をとって欲しいなと思う」とエール、皇治には「10億払われても試合しないです」",
-"link": "https://gonkaku.jp/articles/24487",
-"source": "ゴング格闘技",
-"genre": "general",
-"cat": "info",
-"desc": "2026年8月2日（日）にRIZIN公式YouTubeチャンネルで配信された、榊原信行RIZIN CEOがホストを務めるトークライブ番組 『榊原社長に呼び出されました』 に、ONE…",
-"ts": "2026-08-03T12:12:20+09:00"
 }
 ]
