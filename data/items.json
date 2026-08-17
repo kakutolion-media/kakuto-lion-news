@@ -480,16 +480,6 @@
 "ts": "2026-08-17T14:31:38+09:00"
 },
 {
-"id": "3dd69912b5fb",
-"title": "井上拓真VS那須川天心、元世界2階級制覇王者が分析...井上優位予想も「那須川は土壇場で力を発揮」",
-"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0cVcyMlIxZTFJdjZtRmFfOUZPak5uNjNjUkY2ZEhJSjNxV0d0NndFYXV3cW83TjVIMUhqUDdCR1hyUnhMQUM0Z2Y1R1pSbF9renRJR3hEVE5uNERqLVRB?oc=5",
-"source": "J-CAST ニュース",
-"genre": "boxing",
-"cat": "news",
-"desc": "井上拓真VS那須川天心、元世界2階級制覇王者が分析...井上優位予想も「那須川は土壇場で力を発揮」 J-CAST ニュース",
-"ts": "2026-08-17T14:31:38+09:00"
-},
-{
 "id": "208f2e1c25f5",
 "title": "【ボクシング】吉良大弥「『判定でもいい』と言ってますが、けっこう倒す気持ちはあります」日本最速タイ５戦目での王座獲得へ自信…９・２ＷＢＡライトフライ級王座決定戦（スポーツ報知）",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lc0d0bnhsYTgwdk01ODN3MEhGUnZUZXRuMjFkY0tJMnJZVG0zaHZVSFRvVWFLeXBkTDkzdkMxOUFBMEM2dDluSFJLaEYyNmZQX1oxNk5IQ2hMbnlLTGx4VmNLRGxqbklQS0prYlVNM3lqT3V2YkdwekJPZnQybHc?oc=5",
@@ -831,6 +821,16 @@
 },
 {
 "id": "05f5c1bb3edc",
+"title": "癌患者をサポートするボクシング興行（林壮一） - エキスパート",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWVmR283eEI1Ml9YMV9kRUN4cDdQajVMTVlWUXlKVHl1elJzLVFQb1lfMGRjZDZlR2drbHA1dXI2cXNiZ1pLSEJUbXBya3NvcEZ3YXFNTWdBWHdEYmZ0YjB4Y2NQaHRvSEVfcEh6czR0aG5hSFpvVGxGT21KR3otWFM1VzhFd0xG?oc=5",
+"source": "Yahoo!ニュース",
+"genre": "boxing",
+"cat": "news",
+"desc": "癌患者をサポートするボクシング興行（林壮一） - エキスパート Yahoo!ニュース",
+"ts": "2026-08-17T00:04:51+09:00"
+},
+{
+"id": "045507d131c9",
 "title": "癌患者をサポートするボクシング興行（林壮一） - エキスパート",
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWVmR283eEI1Ml9YMV9kRUN4cDdQajVMTVlWUXlKVHl1elJzLVFQb1lfMGRjZDZlR2drbHA1dXI2cXNiZ1pLSEJUbXBya3NvcEZ3YXFNTWdBWHdEYmZ0YjB4Y2NQaHRvSEVfcEh6czR0aG5hSFpvVGxGT21KR3otWFM1VzhFd0xG?oc=5",
 "source": "Yahoo!ニュース",
@@ -4043,10 +4043,10 @@
 "id": "b7568a644546",
 "title": "【K-1】スーパー・フェザー級王者・横山朋哉の初防衛戦の相手が決定、K-1制覇を目論むクン・クメール王者のトゥン・メンホン",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13aVVpMHFDRVh4TXpjVGNIMVRaSkctanEzZC1uN3FIalV6VDB6MGExRlpNeVlhamV2RjNmUkVfX1pvOFNDVkpKWjEtelEzeEFlZTB3WGR2LTJRUjJMLUdrLU0ta3JRZ1V4dWVHcURVUzJWS05UcUJzMm0zMEEweDg?oc=5",
-"source": "news.yahoo.co.jp",
+"source": "Yahoo!ニュース",
 "genre": "general",
 "cat": "result",
-"desc": "【K-1】スーパー・フェザー級王者・横山朋哉の初防衛戦の相手が決定、K-1制覇を目論むクン・クメール王者のトゥン・メンホン news.yahoo.co.jp",
+"desc": "【K-1】スーパー・フェザー級王者・横山朋哉の初防衛戦の相手が決定、K-1制覇を目論むクン・クメール王者のトゥン・メンホン Yahoo!ニュース",
 "ts": "2026-08-14T19:33:25+09:00"
 },
 {
@@ -4353,10 +4353,10 @@
 "id": "e8b5fbe27cc1",
 "title": "【ヤフコメで話題】「井上尚弥の挑戦者としての姿勢に注目」「フェザー級制覇への期待」 - 今後の階級挑戦を巡る議論",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16ZE43QXlUa1pGNWxDWlYwN2hPejhHbU1CWm9UV3NvYS05aVB5TngxZGZVVXRGekN5bTdnbFdCT0pEUU93MXR1NWtoLUJqSHZzTU4yempiRHk2eGp5Tmt0X3NDVXIzX2xoUUlZNWNLRV94T3dkSms5UFpUMkZFQ00?oc=5",
-"source": "news.yahoo.co.jp",
+"source": "Yahoo!ニュース",
 "genre": "boxing",
 "cat": "news",
-"desc": "【ヤフコメで話題】「井上尚弥の挑戦者としての姿勢に注目」「フェザー級制覇への期待」 - 今後の階級挑戦を巡る議論 news.yahoo.co.jp",
+"desc": "【ヤフコメで話題】「井上尚弥の挑戦者としての姿勢に注目」「フェザー級制覇への期待」 - 今後の階級挑戦を巡る議論 Yahoo!ニュース",
 "ts": "2026-08-14T17:24:00+09:00"
 },
 {
