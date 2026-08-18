@@ -1,11 +1,31 @@
 [
 {
+"id": "d77fd4d86f15",
+"title": "【DWCS S10 Ep02】ダナがケージに入って、両者と握手――の激闘でプーガがトランブリーに競り勝つ",
+"link": "https://mmaplanet.jp/235903?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590dwcs-s10-ep02%25e3%2580%2591%25e3%2583%2580%25e3%2583%258a%25e3%2581%258c%25e3%2582%25b1%25e3%2583%25bc%25e3%2582%25b8%25e3%2581%25ab%25e5%2585%25a5%25e3%2581%25a3%25e3%2581%25a6%25e3%2580%2581%25e4%25b8%25a1%25e8%2580%2585%25e3%2581%25a8%25e6%258f%25a1%25e6%2589%258b%25e2%2580%2595%25e2%2580%2595",
+"source": "MMAPLANET",
+"genre": "mma",
+"cat": "news",
+"desc": "＜フェザー級／5分3R＞ ロマン・プーガ（米国） Def.3-0:29-28.29-28.29-28 ターナー・トランブリー（米国） 右カーフを蹴ったトランブリーが、ハイを見せる。",
+"ts": "2026-08-19T08:45:40+09:00"
+},
+{
 "id": "0df31da6f959",
 "title": "【DWCS】ウェルター級・ファジルvs.ブリトー、ミドル級ロドリゲスvs.ミラー、ライト級・パクストンvs.ペレス──再挑戦が5選手出場＝『Dana White's Contender Series 2026: Week 2』",
 "link": "https://gonkaku.jp/articles/24634",
 "source": "ゴング格闘技",
 "genre": "general",
 "cat": "info",
+"desc": "2026年8月18日（日本時間19日）米国ネヴァダ州ラスベガスの Meta APEXにて、UFCとの契約を賭けた『Dana White's Contender Series 202…",
+"ts": "2026-08-19T07:57:10+09:00"
+},
+{
+"id": "cbf7126a9c83",
+"title": "【DWCS】ウェルター級・ファジルvs.ブリトー、ミドル級ロドリゲスvs.ミラー、ライト級・パクストンvs.ペレス、第1試合から激闘プガがトレンブレイに初黒星つける──再挑戦が5選手出場＝『Dana White's Contender Series 2026: Week 2』",
+"link": "https://gonkaku.jp/articles/24634",
+"source": "ゴング格闘技",
+"genre": "general",
+"cat": "result",
 "desc": "2026年8月18日（日本時間19日）米国ネヴァダ州ラスベガスの Meta APEXにて、UFCとの契約を賭けた『Dana White's Contender Series 202…",
 "ts": "2026-08-19T07:57:10+09:00"
 },
@@ -5033,7 +5053,7 @@
 "id": "488d996c64de",
 "title": "王者・横山朋哉、初防衛の相手はクン・クメール王者に！カンボジアの強豪は、一体どんな選手なのか？＝9・12 K-1代々木第二",
 "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pbTkwcGhhU2kwTkNmN3RlUG1DSjN6Z0t2RXJpNXZ5MC0xS25NZEtIRmF5NUp4WXlKR05maVJxNGU1d241bDI0NTN2Z0loV3It?oc=5",
-"source": "チケットぴあ",
+"source": "fan.pia.jp",
 "genre": "general",
 "cat": "result",
 "desc": "王者・横山朋哉、初防衛の相手はクン・クメール王者に！",
@@ -7978,25 +7998,5 @@
 "cat": "result",
 "desc": "ヘビー級トーナメント準決勝はスダリオ剛が酒井リョウに、エドポロキングが上田幹雄にKO勝ち。",
 "ts": "2026-08-11T19:20:21+09:00"
-},
-{
-"id": "eaf88f18be12",
-"title": "【RIZIN】佐藤将光が体重超過のミックスに判定勝ち「説教できませんでした」",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQzhWRm4yRE5SYVhIeFRYRjFhRW5PZExhRzNMUWoxWVp6cWhSSzN3QlJHR0F2Q3BWS0FEbm1GNm1fMEYtTzZNeG0yVk5oMVRhZi0zcE5TZzFPNkxuSkYwc01kdk5jMWplWlQtUGhSWE5KME5na1lzXzlWaW4tV1BBck1mT1NXZ1A5Z1N4Vg?oc=5",
-"source": "スポニチ Sponichi Annex",
-"genre": "mma",
-"cat": "result",
-"desc": "【RIZIN】佐藤将光が体重超過のミックスに判定勝ち「説教できませんでした」 スポニチ Sponichi Annex",
-"ts": "2026-08-11T19:20:00+09:00"
-},
-{
-"id": "a911d29a37a1",
-"title": "那須川天心、井上拓真との再戦へ向けてメキシカンとのスパーリング開始「一瞬一瞬を無駄にしないように日々を過ごして行きたい」【ボクシング】",
-"link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5LTlndzJqQjM0YmQ3NW1sbmhVSi02WXRaYlB2YnBrMFVwNW85LXpQNzU0dmhkeV91bFFKSmZRcGNuUXJTRHlYdVlnT3h0em5qLURsTA?oc=5",
-"source": "中日新聞Web",
-"genre": "boxing",
-"cat": "news",
-"desc": "那須川天心、井上拓真との再戦へ向けてメキシカンとのスパーリング開始「一瞬一瞬を無駄にしないように日々を過ごして行きたい」【ボクシング】 中日新聞Web",
-"ts": "2026-08-11T19:18:08+09:00"
 }
 ]
