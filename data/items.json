@@ -10,6 +10,16 @@
 "ts": "2026-08-20T00:57:53+09:00"
 },
 {
+"id": "c8b60bfaa99f",
+"title": "ZUFFA BOXING 11（林壮一） - エキスパート",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMkQxNHdWYXN4bDJDN25vUXBjaWNBTWRsUV9NUHRVZlg1MElydk1kUUhxTUFDYjlNWHhlMXhvNVpNNUdiVG1Qd1drcG50dVFaUHRMRWhiNFJLajlOR0VkMUNHMTVicWQ0WU8wTVk4Yl9aNjQ5aTREM2ZVT2NwVVM4QVBKZDczTWtT?oc=5",
+"source": "Yahoo!ニュース",
+"genre": "boxing",
+"cat": "news",
+"desc": "ZUFFA BOXING 11（林壮一） - エキスパート Yahoo!ニュース",
+"ts": "2026-08-20T00:15:36+09:00"
+},
+{
 "id": "c2c0b43c1317",
 "title": "ZUFFA BOXING 11（林壮一） - エキスパート",
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMkQxNHdWYXN4bDJDN25vUXBjaWNBTWRsUV9NUHRVZlg1MElydk1kUUhxTUFDYjlNWHhlMXhvNVpNNUdiVG1Qd1drcG50dVFaUHRMRWhiNFJLajlOR0VkMUNHMTVicWQ0WU8wTVk4Yl9aNjQ5aTREM2ZVT2NwVVM4QVBKZDczTWtT?oc=5",
@@ -238,6 +248,16 @@
 "cat": "result",
 "desc": "アマ７冠の中山聖也、上々のTKOデビュー 井上尚弥から「上出来、めっちゃ良かった」 日刊スポーツ",
 "ts": "2026-08-19T21:11:45+09:00"
+},
+{
+"id": "427207ba37bc",
+"title": "超人イリエマン、RIZIN会場前で“大立ち回り”！模造刀を手に榊原CEOへ直訴状",
+"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iZ19FWDB5cnJWLWtfejlDUG5Ca1V1TnM3VUpuYzBzaUZiOGl4YVdZTGlfcjFVcHNURDEyd3RQVUl0ZllVOWg2NGsxZ2pkOHFL?oc=5",
+"source": "efight.jp",
+"genre": "mma",
+"cat": "news",
+"desc": "超人イリエマン、RIZIN会場前で“大立ち回り”！",
+"ts": "2026-08-19T20:19:20+09:00"
 },
 {
 "id": "7a260626acc1",
@@ -647,16 +667,6 @@
 "genre": "boxing",
 "cat": "info",
 "desc": "ジェシー・ロドリゲス 井上尚弥戦の報酬は10億円 リヤド・シーズン 来年２月か３月日本開催 BOXING MASTER",
-"ts": "2026-08-19T09:45:56+09:00"
-},
-{
-"id": "f593860e89fa",
-"title": "ジェシー・ロドリゲス 井上尚弥戦の報酬は10億円 リヤド・シーズン 来年２月か３月日本開催",
-"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOVlEX2NENnB1VUh6NnNZb3JITWJEZ0dFRVdqMXJHTWZLWFRtcGcxNW94dmlvbmhlc1dmczBlSjF1cFMzZmx6cWt3UHl0Q2RhejE0cF9jSFZtS2Y4cG05U3g1Z2hCUjJJOWtuQkpJaDhPZmw0NU04RGdOU3ZUb1FXWFdEVWEzUDhaRUlQSlg1dU1TanNYX1JPZDRPVTZTOHRNcGo4M2lHSmtYNHQwYUhSZ2hTYmJYTEdrbVgwWEhwLW5jaVc2cmpxVWJIY1ppRTBJWW9kZkJhbld5R0FnLUc5aWNzOUxFcG9odm1UTw?oc=5",
-"source": "boxing-master.com",
-"genre": "boxing",
-"cat": "info",
-"desc": "ジェシー・ロドリゲス 井上尚弥戦の報酬は10億円 リヤド・シーズン 来年２月か３月日本開催 boxing-master.com",
 "ts": "2026-08-19T09:45:56+09:00"
 },
 {
@@ -5853,7 +5863,7 @@
 "id": "488d996c64de",
 "title": "王者・横山朋哉、初防衛の相手はクン・クメール王者に！カンボジアの強豪は、一体どんな選手なのか？＝9・12 K-1代々木第二",
 "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pbTkwcGhhU2kwTkNmN3RlUG1DSjN6Z0t2RXJpNXZ5MC0xS25NZEtIRmF5NUp4WXlKR05maVJxNGU1d241bDI0NTN2Z0loV3It?oc=5",
-"source": "fan.pia.jp",
+"source": "チケットぴあ",
 "genre": "general",
 "cat": "result",
 "desc": "王者・横山朋哉、初防衛の相手はクン・クメール王者に！",
@@ -7988,15 +7998,5 @@
 "cat": "news",
 "desc": "秋元強真「左手の中手骨をやっちゃったな」大晦日シェイドゥラエフｏｒマッキー戦は朝倉未来からも慎重アドバイス デイリースポーツ 【記事全文】【RIZIN】朝倉未来「完璧」 メイン締めた秋元強真を称える！",
 "ts": "2026-08-12T13:10:00+09:00"
-},
-{
-"id": "096ecd7f7780",
-"title": "【ボクシング インタビュー】努力は世界を超える! 石井武志が証明する叩き上げの世界初挑戦",
-"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PMlJLMmZFZG9DbXNEVTJhV0IxVnhwcGxubUNjam41MUg1VktPMW5Yb3hpeWdTTHM5dkdpY0FudlBYbHQtT3NqQ016OVpjZTdvTzBiNWdPVExZYmlndVhJ0gFkQVVfeXFMUGtYWlloV2UxNjZsTzFqNGJZaUNJamZQUnlNMEtuc2JkVnZsb2lRX1ZXQXd6SHBwVnJQUTNwRVZuVkN0UmFCd05kTi1TVERmT3pNUVdBOU45MjVyOXJEa1VJRjFRSw?oc=5",
-"source": "ボクシングモバイル",
-"genre": "boxing",
-"cat": "news",
-"desc": "【ボクシング インタビュー】努力は世界を超える! 石井武志が証明する叩き上げの世界初挑戦 ボクシングモバイル",
-"ts": "2026-08-12T13:01:09+09:00"
 }
 ]
