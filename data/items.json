@@ -1,5 +1,25 @@
 [
 {
+"id": "e0548207f2b3",
+"title": "【ジム】第3代K-1女子アトム級王者・松谷綺が武尊率いるteam VASILEUSに加入「更なる高みを目指して頑張ります」",
+"link": "https://gonkaku.jp/articles/24640",
+"source": "ゴング格闘技",
+"genre": "general",
+"cat": "news",
+"desc": "2026年8月20日（木）、武尊率いるteam VASILEUS（株式会社STR運営）に、第3代K-1 WORLD GP女子アトム級王者および第4代Krush女子アトム級王者の松谷…",
+"ts": "2026-08-20T18:25:15+09:00"
+},
+{
+"id": "b46eeebf9a1c",
+"title": "【ONE】4連勝から初黒星を喫した吉田晄成がSAMURAIに出場、相手は門口佳佑にTKO勝ちした3連勝ジェンドン",
+"link": "https://gonkaku.jp/articles/24639",
+"source": "ゴング格闘技",
+"genre": "general",
+"cat": "result",
+"desc": "2026年9月12日(土)神奈川・横浜BUNTAI『 ONE SAMURAI 3 』（ U-NEXT配信 ）の追加対戦カードが発表された。",
+"ts": "2026-08-20T18:02:16+09:00"
+},
+{
 "id": "2705e2375aa9",
 "title": "【スタメン発表】阪神は「2番・二塁」に高寺望夢 「6番・左翼」には前川右京が入る 中野拓夢が2戦連続ベンチスタート",
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeXNoLUVQRXpiQjF6M2tISnd2X2J3TEtTb09sRmN2OWpycFQtR3ptUVBtWW9kYXB5Szh1ZkVqYUllZ0FtdHNoRk04YUFCVnlSbkM5bFJoYXdsU201ZUNSbU9RLWdoZE1oZk5nZXR4OVJVM3FIa0hFbG1YSlVjTUxsY2I1TGNOY1JzRHd6MFJPVE1MYzF2ZkHSAYoBQVVfeXFMTVlhZ1Z3S0hjSjJKNHZreWRMSHhhLWNTamlBdFdjc1VBdUFkekJaNDFqUml6MGw5TjVSWEZrQTA5X3pEcVV2aGFLODJta2JPTF9kTkZyczNMUk1OWjBZRUpEMnh5a1ZSeUx5dEY1UDhIWmlLMzkxcThNUXpjZ2F3UnRnVnVSUGNET1pR?oc=5",
@@ -287,16 +307,6 @@
 "genre": "mma",
 "cat": "news",
 "desc": "元ジェッツLBアンソニー・ウィントが現地土曜日にUFCデビューへ nfljapan.com",
-"ts": "2026-08-20T14:45:00+09:00"
-},
-{
-"id": "8cb416f2f52d",
-"title": "元ジェッツLBアンソニー・ウィントが現地土曜日にUFCデビューへ",
-"link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03R3YycmplMXhCOS1mZTdaLUVBQmZwTFhEdzRjeFlBS2lGenA1TEVYRVBzSXRWMTU2NjRLajFnekwzZ3E2aTFEQWJKT2N2Zw?oc=5",
-"source": "NFL JAPAN.COM | NFL日本公式サイト",
-"genre": "mma",
-"cat": "news",
-"desc": "元ジェッツLBアンソニー・ウィントが現地土曜日にUFCデビューへ NFL JAPAN.COM | NFL日本公式サイト",
 "ts": "2026-08-20T14:45:00+09:00"
 },
 {
@@ -3421,16 +3431,6 @@
 },
 {
 "id": "4fa9b01f1c0e",
-"title": "[multi canais] ufc multicanais ao vivo hoje smart tv+💻.jsp – Google Play のアプリ",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPakdIalYtaE5VbkZ0aERzblJGS3lNcmY4YkFWdEdIcWdaNnZicGc1emxrUDFxdkFpaEVRR2FKTnZGS2RJdFhWc2pJMERNbl9uTTUtNlVmaDh5Qk9wVkVwdmhIa2VYdmZZcGtwSnpyRFlPcDJJUkkzanRMZjBfVjhSWk1PSklyTVd6RVpHMXBuOHZSUzA3dmcyVThERTJEazhrWjJRakxuX2pIV24tZHlEWEF3U2NTNkVjd2ZoRmpJR2oyVzJxXzNscGUxVnh1SjRTR2c?oc=5",
-"source": "esporte.ce.gov.br",
-"genre": "mma",
-"cat": "news",
-"desc": "[multi canais] ufc multicanais ao vivo hoje smart tv+💻.jsp – Google Play のアプリ esporte.ce.g…",
-"ts": "2026-08-17T03:34:57+09:00"
-},
-{
-"id": "b6053efdd182",
 "title": "[multi canais] ufc multicanais ao vivo hoje smart tv+💻.jsp – Google Play のアプリ",
 "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPakdIalYtaE5VbkZ0aERzblJGS3lNcmY4YkFWdEdIcWdaNnZicGc1emxrUDFxdkFpaEVRR2FKTnZGS2RJdFhWc2pJMERNbl9uTTUtNlVmaDh5Qk9wVkVwdmhIa2VYdmZZcGtwSnpyRFlPcDJJUkkzanRMZjBfVjhSWk1PSklyTVd6RVpHMXBuOHZSUzA3dmcyVThERTJEazhrWjJRakxuX2pIV24tZHlEWEF3U2NTNkVjd2ZoRmpJR2oyVzJxXzNscGUxVnh1SjRTR2c?oc=5",
 "source": "esporte.ce.gov.br",
@@ -6680,16 +6680,6 @@
 "ts": "2026-08-14T19:33:25+09:00"
 },
 {
-"id": "b7568a644546",
-"title": "【K-1】スーパー・フェザー級王者・横山朋哉の初防衛戦の相手が決定、K-1制覇を目論むクン・クメール王者のトゥン・メンホン",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13aVVpMHFDRVh4TXpjVGNIMVRaSkctanEzZC1uN3FIalV6VDB6MGExRlpNeVlhamV2RjNmUkVfX1pvOFNDVkpKWjEtelEzeEFlZTB3WGR2LTJRUjJMLUdrLU0ta3JRZ1V4dWVHcURVUzJWS05UcUJzMm0zMEEweDg?oc=5",
-"source": "Yahoo!ニュース",
-"genre": "general",
-"cat": "result",
-"desc": "【K-1】スーパー・フェザー級王者・横山朋哉の初防衛戦の相手が決定、K-1制覇を目論むクン・クメール王者のトゥン・メンホン Yahoo!ニュース",
-"ts": "2026-08-14T19:33:25+09:00"
-},
-{
 "id": "2c829c67e045",
 "title": "ボクシング 薬師寺ジムの薬師寺保栄会長、養子縁組届を偽造し提出した罪でJBCから6カ月間のクラブオーナーライセンス停止処分",
 "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGRMZ2p0Tkh0RExQSW8zNW9FZFA4NF95S3hQcWpRZ0lFN2RrNkNNaVJvX0xQN2ZuQ0U4SzRQUlZGdHZpTkZNQnRTUDRHa0hwam9ucUdHOFVIN2RzRG5PYUluRnVNSXlBdmU2Rkd5YzlSODRDVUdpUnlpY2NoNmhEcUVXdHJEZHcxZ0ZtOGhqTmthenlZaXAyMnBZUXFHWF96LUVIcdIBqgFBVV95cUxORVZNa1lpUjVOODRxUlVMZFppWTg0aE5SOXZvTEo3MTlmZ1J5dkRCNmVrUFl2YlFDaDlHX0pwdDVQNFJfN0dTS2prT2JZSnUtWXljRmdPU0daU3FZcGV6dmwzNElaVEpYMXlFaUhhWEhJYnhIZDhCUHhNYnROTkxWUDhUVTlLX0Zva0pFNXZvWmpKUzVuZkVRckhFQ011dXc3VXJjVEVoMXpDdw?oc=5",
@@ -6804,16 +6794,6 @@
 "title": "王者・横山朋哉、初防衛の相手はクン・クメール王者に！カンボジアの強豪は、一体どんな選手なのか？＝9・12 K-1代々木第二",
 "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pbTkwcGhhU2kwTkNmN3RlUG1DSjN6Z0t2RXJpNXZ5MC0xS25NZEtIRmF5NUp4WXlKR05maVJxNGU1d241bDI0NTN2Z0loV3It?oc=5",
 "source": "fan.pia.jp",
-"genre": "general",
-"cat": "result",
-"desc": "王者・横山朋哉、初防衛の相手はクン・クメール王者に！",
-"ts": "2026-08-14T18:16:05+09:00"
-},
-{
-"id": "488d996c64de",
-"title": "王者・横山朋哉、初防衛の相手はクン・クメール王者に！カンボジアの強豪は、一体どんな選手なのか？＝9・12 K-1代々木第二",
-"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pbTkwcGhhU2kwTkNmN3RlUG1DSjN6Z0t2RXJpNXZ5MC0xS25NZEtIRmF5NUp4WXlKR05maVJxNGU1d241bDI0NTN2Z0loV3It?oc=5",
-"source": "チケットぴあ",
 "genre": "general",
 "cat": "result",
 "desc": "王者・横山朋哉、初防衛の相手はクン・クメール王者に！",
