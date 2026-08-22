@@ -1,5 +1,15 @@
 [
 {
+"id": "256387ebfce1",
+"title": "【シュートボクシング】11・8愛知で初のナンバーシリーズ開催を発表、10・24後楽園ホールは「世界最高峰の戦いが見られるようなマッチメイクを水面下でマッチアップしています」",
+"link": "https://gonkaku.jp/articles/24663",
+"source": "ゴング格闘技",
+"genre": "general",
+"cat": "info",
+"desc": "2026年8月22日(土)東京・後楽園ホールにて開催された 『SHOOT BOXING 2026 act.4』 （ U-NEXT配信 ）にて、10月24日（土）東京・後楽園ホール『…",
+"ts": "2026-08-22T23:20:05+09:00"
+},
+{
 "id": "cf36652e0f2b",
 "title": "【シュートボクシング】笠原友希が強敵ロムイーサンにボディ攻めで勝利「前回の負けで感情無くなるくらい落ちていたんですけれど…」（ゴング格闘技）",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQlh4dG42UnYwV0VGWWFyaGlTT0ZmZllhTm1VemdLdVlyZ2tnckFDQjcyOWY3dTJGcGRTVG4zU0t1SjM3bm5iMnV4djZLLWx4eXJTaG95TENQRW5WTnoyWnlEMi1IQjhYeTUxalBWdjBHdGNBMnptRzJfZVhQQlE?oc=5",
@@ -280,16 +290,6 @@
 "ts": "2026-08-22T17:20:23+09:00"
 },
 {
-"id": "b472b3bfe561",
-"title": "ロペス戦を前にロランド・ロメロ 「勝ち取ったリスペクト」にこだわり見せず | ボクシング（DAZN News）",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZYk11UnpHSFJmU1JnaHhKWVRiWVBEYmowci1iSjA4NjFFcG9PWUFROXhlSG9EVF9QdGtuZEZ3Qm5pZ1JJakFnY0NYUFdrUlpLeUZIeUZtUUZtUU5JM1BUZHNuc1hydXByODR3emw0YnlJOURzbFZHUmhxSk9XZTA?oc=5",
-"source": "Yahoo!ニュース",
-"genre": "boxing",
-"cat": "news",
-"desc": "ロペス戦を前にロランド・ロメロ 「勝ち取ったリスペクト」にこだわり見せず | ボクシング（DAZN News） Yahoo!ニュース",
-"ts": "2026-08-22T17:20:23+09:00"
-},
-{
 "id": "3b650769e749",
 "title": "【シュートボクシング】山田彪太朗vs.ファーモンコン、笠原友希vs.ロムイーサン、イモト・ボルケーノvs.高橋幸光、竜也vs.庄司啓馬、“令和のツヨカワヒロイン”初登場も＝速報中",
 "link": "https://gonkaku.jp/articles/24660",
@@ -341,16 +341,6 @@
 },
 {
 "id": "6c0836d5d1a9",
-"title": "ロランド・ロメロとテオフィモ・ロペスが計量クリア WBAタイトル戦前最後のフェイスオフ | ボクシング（DAZN News）",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9faHloa1Q4c0dYcGQ1aFdNMHNhYVMzTHNhVnIyX0RGQUdsZWg4a3hPaFhfSXlQcFdia2w0UWcydWY3d2JUUEZEMXdsaTBCbzB5akhRbU5Ta3Z0NDk1bXEzTlFkaVRCTHItYlNzeTBkVktaR01lbE1LMmJ4TUlidU0?oc=5",
-"source": "Yahoo!ニュース",
-"genre": "boxing",
-"cat": "info",
-"desc": "ロランド・ロメロとテオフィモ・ロペスが計量クリア WBAタイトル戦前最後のフェイスオフ | ボクシング（DAZN News） Yahoo!ニュース",
-"ts": "2026-08-22T17:10:06+09:00"
-},
-{
-"id": "09d52cc83adc",
 "title": "ロランド・ロメロとテオフィモ・ロペスが計量クリア WBAタイトル戦前最後のフェイスオフ | ボクシング（DAZN News）",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9faHloa1Q4c0dYcGQ1aFdNMHNhYVMzTHNhVnIyX0RGQUdsZWg4a3hPaFhfSXlQcFdia2w0UWcydWY3d2JUUEZEMXdsaTBCbzB5akhRbU5Ta3Z0NDk1bXEzTlFkaVRCTHItYlNzeTBkVktaR01lbE1LMmJ4TUlidU0?oc=5",
 "source": "Yahoo!ニュース",
@@ -1573,6 +1563,16 @@
 "id": "54488eb2fc72",
 "title": "【ヤフコメで話題】「朝倉海のUFCバンタム級挑戦に賛否」「適正階級と実力評価を巡る議論」 - UFCでの今後に注目集まる",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93QVF2bUxmTnNjVHlTVlJKdUx5U0hMZ0x6anJEOVpVTEIwc0hoZ3ZLRjFUdms4RkxnWGEyWEZWNGhvT3hwNkJBU016VzduNkIwc1c4WFRhTkxnbURWbDdBbTRtcDMwTGJQVlRoOU83bVFoVXpBU2o5SHZSR0pNSUk?oc=5",
+"source": "Yahoo!ニュース",
+"genre": "mma",
+"cat": "news",
+"desc": "【ヤフコメで話題】「朝倉海のUFCバンタム級挑戦に賛否」「適正階級と実力評価を巡る議論」 - UFCでの今後に注目集まる Yahoo!ニュース",
+"ts": "2026-08-21T13:27:04+09:00"
+},
+{
+"id": "bc60b76f6ca8",
+"title": "【ヤフコメで話題】「朝倉海のUFCバンタム級挑戦に賛否」「適正階級と実力評価を巡る議論」 - UFCでの今後に注目集まる",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNDlyeHVCVDlHTWFlbWRhZ0RITUZWOTJWVnNqdzMzWDdmYXNvZTVsY1hxWUUtTmx2X0I3R3lJQ2Q1OXVJWHNCS1ZPSDdpYk03VEVQaURmZFptX0MyVzZhMHFPSnBKeEg3QmNDSWM1MG1wOFQxTXp2LVBMcmlNY0V2VnZQaEt5Z2VPbU93aTRR?oc=5",
 "source": "Yahoo!ニュース",
 "genre": "mma",
 "cat": "news",
