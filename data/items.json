@@ -1,5 +1,55 @@
 [
 {
+"id": "be05ca6aaf0f",
+"title": "【GOAT】笠原友希がISKA世界王座決定戦、相手は10勝（8KO）無敗「いろんな動きのバリエーションも増やして、どんどん攻めていけるように改良してる」",
+"link": "https://gonkaku.jp/articles/24877",
+"source": "ゴング格闘技",
+"genre": "general",
+"cat": "result",
+"desc": "『キックボクシングフェス.3 GOAT』 が2026年10月25日（日）東京・テレビ東京天王洲スタジオにて開催が決定。",
+"ts": "2026-09-14T20:10:16+09:00"
+},
+{
+"id": "2b3376985e47",
+"title": "【GOAT】南原健太がISKA世界王座に挑戦、地上波生中継に「初めてキックボクシングを見る方でも分かりやすい、エキサイティングな、みんなが沸くような試合をお見せできます」",
+"link": "https://gonkaku.jp/articles/24876",
+"source": "ゴング格闘技",
+"genre": "general",
+"cat": "result",
+"desc": "『キックボクシングフェス.3 GOAT』 が2026年10月25日（日）東京・テレビ東京天王洲スタジオにて開催が決定。",
+"ts": "2026-09-14T19:10:30+09:00"
+},
+{
+"id": "509028461f8a",
+"title": "【GOAT】龍聖がISKA世界王座の初防衛戦も“挑戦”だと口にした理由は「キックボクシングの未来は僕にかかっている」「これを格闘技を正しい方向に戻す第一歩にしたい」",
+"link": "https://gonkaku.jp/articles/24875",
+"source": "ゴング格闘技",
+"genre": "general",
+"cat": "result",
+"desc": "『キックボクシングフェス.3 GOAT』 が2026年10月25日（日）東京・テレビ東京天王洲スタジオにて開催が決定。",
+"ts": "2026-09-14T17:55:34+09:00"
+},
+{
+"id": "07785affb910",
+"title": "【GOAT】第3回大会はテレビ東京系全国6局ネットで生中継、レギュラー番組も開始、龍聖・南原健太・笠原友希がISKA世界タイトルマッチ",
+"link": "https://gonkaku.jp/articles/24874",
+"source": "ゴング格闘技",
+"genre": "general",
+"cat": "info",
+"desc": "『キックボクシングフェス.3 GOAT』が2026年10月25日（日）東京・テレビ東京天王洲スタジオにて開催が決定。",
+"ts": "2026-09-14T15:24:42+09:00"
+},
+{
+"id": "8dbfbc4ce8e6",
+"title": "【RIZIN】平本蓮「強靭な顎に産んでくれた親に感謝」「KOするつもりだったんで悔しくて泣いちゃいました」「見返しても2、3R取れてたと思う。RIZINがラウンドマストになったのも大きかった」",
+"link": "https://gonkaku.jp/articles/24873",
+"source": "ゴング格闘技",
+"genre": "general",
+"cat": "result",
+"desc": "2026年9月10日（木）大阪・京セラドーム大阪にて『超RIZIN.5 浪速の超復活祭り』が開催された。",
+"ts": "2026-09-14T15:06:09+09:00"
+},
+{
 "id": "993a491bf019",
 "title": "'リアネイキッド・チョーク→スリリングな逆転勝利' ジェアン・シルバが熱く吠える「新しいチャンピオンは私だ」",
 "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96ZjViNWRoMXdHY3BUZlVzaF9YQTVKRFBKOEZEVGJYU0tkaUpqZkxuNEY0cXZfN2J4aXRoelJmVGJObTNGc0JJcGhiMlFQRFFKWXpobVBPMENPNS1CYjFPVmhlT0xoSW80U3IwZ2JnUm9kcTBqQlNfbmNB?oc=5",
@@ -160,16 +210,6 @@
 "ts": "2026-09-14T08:34:00+09:00"
 },
 {
-"id": "d8596e04a26c",
-"title": "【格闘技】「K-1 WORLD MAX 2026」で新王者3階級誕生！ -70kg世界TのFINAL8決定",
-"link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13alUzYk53NXd1aGMyOGVoOHdVSXEyUVk4Ui03dTNEYmYteHBhRFJlSUhrNXJQU05FbnFERmVXbmdOaUJJRmpiZnBidm9tWmlHa2ZpVw?oc=5",
-"source": "GAORA",
-"genre": "general",
-"cat": "info",
-"desc": "【格闘技】「K-1 WORLD MAX 2026」で新王者3階級誕生！",
-"ts": "2026-09-14T08:34:00+09:00"
-},
-{
 "id": "5e10152a2485",
 "title": "【ボクシング インタビュー】末國龍汰が魅せる自由なボクシング!",
 "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11X19GQ3oxbEVDcXZ1eGNmSzMwY0F1ampYT3N6S1Nua2lyT05mWTlXWmJ5ZEhWdi1hV05BVldTXzBRbWFjYkxXSXdDQkVMMVVjRUV4Qno1NEg3T3ZKRlZB0gFkQVVfeXFMT3c0QXpPT3ktQXVodHRoRFJPZ3BWYkpRZ1pmOURVblFnaTRVVXdlbmFwR3FCTGtfVm0xSHFxNkdGbkVRN05KVUZjVlZudzdkN2tTZ3pxcTJfNmpOaTNUSE9MWVZvXw?oc=5",
@@ -230,16 +270,6 @@
 "ts": "2026-09-14T04:02:00+09:00"
 },
 {
-"id": "f5070ce44ea7",
-"title": "「思わず見惚れた…」K-1リングにいた176cm美女の正体に熱視線「ビックリ!!」「めちゃ美しい」",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5TSmszMlFjQy1NRnZmMXJPelpTakZ6Q0xNZ3dhX1FVS1pPVmktbTBjMkkzQU5SbzdMS1REUUFLU0ZNUE55VEE?oc=5",
-"source": "the-ans.jp",
-"genre": "general",
-"cat": "news",
-"desc": "「思わず見惚れた…」K-1リングにいた176cm美女の正体に熱視線「ビックリ!!」「めちゃ美しい」 the-ans.jp",
-"ts": "2026-09-14T04:02:00+09:00"
-},
-{
 "id": "32cad26fa9d8",
 "title": "【ONE FF】RISEライト級6位のGUMPが2度目の参戦、TEAM TEPPENからは指田烈、小野寺龍亮も出場",
 "link": "https://gonkaku.jp/articles/24871",
@@ -271,16 +301,6 @@
 },
 {
 "id": "5e982d62dc7a",
-"title": "吉成名高、キックボクシング初挑戦で勝利 タフな相手に苦戦もスピードと手数で上回る【U-NEXT見逃し配信中】",
-"link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55X1VwclpoLUhMSGZQZGdFMFp4QjdSdWRoNmhQeXUyMEFuV0duRktMUjhDZV9TTkFRdEstcng0VjVjelhPRDI2ZEl3?oc=5",
-"source": "banger.jp",
-"genre": "boxing",
-"cat": "result",
-"desc": "吉成名高、キックボクシング初挑戦で勝利 タフな相手に苦戦もスピードと手数で上回る【U-NEXT見逃し配信中】 banger.jp",
-"ts": "2026-09-13T21:28:11+09:00"
-},
-{
-"id": "1a65b5d7d825",
 "title": "吉成名高、キックボクシング初挑戦で勝利 タフな相手に苦戦もスピードと手数で上回る【U-NEXT見逃し配信中】",
 "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55X1VwclpoLUhMSGZQZGdFMFp4QjdSdWRoNmhQeXUyMEFuV0duRktMUjhDZV9TTkFRdEstcng0VjVjelhPRDI2ZEl3?oc=5",
 "source": "banger.jp",
@@ -501,16 +521,6 @@
 },
 {
 "id": "7b258adc2727",
-"title": "「ナイスバディ」プロテニスプレーヤー、ラインはっきりのタイトミニ丈ワンピ着用でK-1リングに「綺麗ですね」",
-"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0UFlUZWh6QTVfQkFOYVRSVThXOWJQMWlJYjgxV0poNjl3dmJ2dElRUTdSQWxfcm5WeFVlM3BhVlU3OThTZ3B0djVhb1JrZDF5?oc=5",
-"source": "ENCOUNT",
-"genre": "general",
-"cat": "news",
-"desc": "「ナイスバディ」プロテニスプレーヤー、ラインはっきりのタイトミニ丈ワンピ着用でK-1リングに「綺麗ですね」 ENCOUNT",
-"ts": "2026-09-13T14:07:19+09:00"
-},
-{
-"id": "766b86932b78",
 "title": "「ナイスバディ」プロテニスプレーヤー、ラインはっきりのタイトミニ丈ワンピ着用でK-1リングに「綺麗ですね」",
 "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0UFlUZWh6QTVfQkFOYVRSVThXOWJQMWlJYjgxV0poNjl3dmJ2dElRUTdSQWxfcm5WeFVlM3BhVlU3OThTZ3B0djVhb1JrZDF5?oc=5",
 "source": "ENCOUNT",
@@ -791,16 +801,6 @@
 },
 {
 "id": "4f3e6bad80be",
-"title": "「やっぱり可愛い！」話題の26歳ラウンドガール 「5万人歓声…忘れられません」朝倉未来興行に感激",
-"link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWaDNpa0k5VXBfTWJtT3N1TEg2T1d1c1pOTTRkR2o3cndpYUpzVDZFaXh3WkxuRkRaMXdFWE1MT3FQeS1qZ2FJTA?oc=5",
-"source": "the-ans.jp",
-"genre": "mma",
-"cat": "news",
-"desc": "「やっぱり可愛い！",
-"ts": "2026-09-13T04:42:12+09:00"
-},
-{
-"id": "a231f5522567",
 "title": "「やっぱり可愛い！」話題の26歳ラウンドガール 「5万人歓声…忘れられません」朝倉未来興行に感激",
 "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWaDNpa0k5VXBfTWJtT3N1TEg2T1d1c1pOTTRkR2o3cndpYUpzVDZFaXh3WkxuRkRaMXdFWE1MT3FQeS1qZ2FJTA?oc=5",
 "source": "the-ans.jp",
@@ -1240,16 +1240,6 @@
 "ts": "2026-09-12T19:27:05+09:00"
 },
 {
-"id": "b2f80df07dd0",
-"title": "【ONE SAMURAI 3】伊藤盛一郎、妻・元K-1王者の菅原美優の前で一本勝ち",
-"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MUW1tR2F5c2piV1ZJZkpJX29RYThqaGJoVWtTQ3BUTmhBcFlOOGxqcUtHWTdaS2dCMnNSRThoMmJOVGdvOEFUamlmUnBqZ2FtTmVScUJn?oc=5",
-"source": "オリコンニュース",
-"genre": "general",
-"cat": "result",
-"desc": "【ONE SAMURAI 3】伊藤盛一郎、妻・元K-1王者の菅原美優の前で一本勝ち オリコンニュース",
-"ts": "2026-09-12T19:27:00+09:00"
-},
-{
 "id": "f3812d735894",
 "title": "【ONE SAMURAI03】初回にダウンの奥脇竜我が、左ボディで逆転KO。「聞いたことがない金額」450万奪取!",
 "link": "https://mmaplanet.jp/238172?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590one-samurai03%25e3%2580%2591%25e5%2588%259d%25e5%259b%259e%25e3%2581%25ab%25e3%2583%2580%25e3%2582%25a6%25e3%2583%25b3%25e3%2581%25ae%25e5%25a5%25a5%25e8%2584%2587%25e7%25ab%259c%25e6%2588%2591%25e3%2581%258c%25e3%2580%2581%25e5%25b7%25a6%25e3%2583%259c%25e3%2583%2587%25e3%2582%25a3%25e3%2581%25a7",
@@ -1520,16 +1510,6 @@
 "ts": "2026-09-12T15:14:00+09:00"
 },
 {
-"id": "ae80234af5f3",
-"title": "【K-1】大久保琉唯が石田龍大にKOで王座奪取！「これからのK-1を背負って行くのは僕です。K-1最高！」（ゴング格闘技）",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HWUV1TG9wR0JLLVFqeWhMdG1CZEdLN3pYdWlOYTRYTkpQRjNOR3ZrYkd4OUxuV3JvRHR3dTN6VWNqQllxYVFfaHhjdjM0Uk5wZy0yQkExRnFaMDloVXBnUHBhWGZzczdRejRkYmRxTDhSTE1QblkxWmdUTXpGSDA?oc=5",
-"source": "Yahoo!ニュース",
-"genre": "general",
-"cat": "result",
-"desc": "【K-1】大久保琉唯が石田龍大にKOで王座奪取！",
-"ts": "2026-09-12T15:14:00+09:00"
-},
-{
 "id": "b75a0cc346c0",
 "title": "【K－1】36歳永澤サムエル聖光がパンチラッシュで里見柚己に“大逆転勝ち”「映画化決定で」",
 "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15Q0ZyOWRFZVItdzNVUXdKNTJvMzVuSS1IZzYwWlhlbk13Ums3U3Y1ZGZ4eVpjYlc2d1YtdDNzMVZkOUdEeVRfeTVQYnA0VlVldVRpQUdRa2xTT2lxTkNfMHhPa252VVlkZE8ydlVpU0dRakXSAXtBVV95cUxPOFpmV0E4dWNZNlRWWmkzalNHNnJFWE1GRGRkQnRTbmFoeUp1MzRGOEdGakpBTjVBTjVoTDcwOGlEWUEwMEJUZEpMazBQYkhna0JlaldyaFUwbkxROGpKbE9QLVUzSEpGTmpKVy0xekl6NXB3VHBacElXa1U?oc=5",
@@ -1551,16 +1531,6 @@
 },
 {
 "id": "c422c498a84f",
-"title": "【速報】K-1 WORLD MAX 2026～-70kg世界最強決定トーナメント・開幕戦",
-"link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1VEtNN2ZLc3RzRHBaNkVNN2F5UVhFUDlpbldzRTE1Sy1aOU9xdkJHSGtleFFCY3JQQUl4Y0hXZ1JkbEZrd2ZwN1RkOUdEaWFfZ1Bn?oc=5",
-"source": "スポーツナビ",
-"genre": "general",
-"cat": "breaking",
-"desc": "【速報】K-1 WORLD MAX 2026～-70kg世界最強決定トーナメント・開幕戦 スポーツナビ",
-"ts": "2026-09-12T15:00:00+09:00"
-},
-{
-"id": "5f9272e8addb",
 "title": "【速報】K-1 WORLD MAX 2026～-70kg世界最強決定トーナメント・開幕戦",
 "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1VEtNN2ZLc3RzRHBaNkVNN2F5UVhFUDlpbldzRTE1Sy1aOU9xdkJHSGtleFFCY3JQQUl4Y0hXZ1JkbEZrd2ZwN1RkOUdEaWFfZ1Bn?oc=5",
 "source": "スポーツナビ",
@@ -1790,16 +1760,6 @@
 "ts": "2026-09-12T11:00:19+09:00"
 },
 {
-"id": "11a40a64b23c",
-"title": "「朝倉未来vs.平本蓮」リマッチは『RIZIN大晦日』で実現するのか？ #エキスパートトピ（近藤隆夫） - エキスパート",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamx3c082RG9RZmFPZEc3eE11U1I5RE5KN2tMRHFkenB4dkRPZ0x4SDdHczVrbFVKVDBPeUZXaFViR1VmTW9FTUphQllaM2p6a19jMVc1alNia1R6dWpIZ3JSbndmM0Z2QmRNd3YycVVUX0pEZ1MtVXpUZThPamxZM0tjR0I5anJJ?oc=5",
-"source": "Yahoo!ニュース",
-"genre": "mma",
-"cat": "rumor",
-"desc": "「朝倉未来vs.平本蓮」リマッチは『RIZIN大晦日』で実現するのか？",
-"ts": "2026-09-12T11:00:19+09:00"
-},
-{
 "id": "586c21b143f9",
 "title": "「胸張って生きるのと猫背で生きるのと人生違うで」“筋トレシニア”急増中のワケ キックボクシングする83歳に12キロ持ち上げる84歳 筋トレは“体も心も健康にする”調査結果も 国も進める“健康寿命”延伸（関西テレビ）",
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1dzSVAyMk1xOWstckRXUnNNYUc0VlVMSmkyQlJuU3d6V25qSUgtY3I5SkY5dUxaNmdaclFMYndfZmlWWDNWQkRpVE9MU1FZb3ZOWGp4dzFmNGdKN2ZYM20zc0VrZmJZSTdZV2pySWdocW43Y2puSjBIMlhtU29PbXhQTHJqNXhh?oc=5",
@@ -1851,16 +1811,6 @@
 },
 {
 "id": "f4a9a1afe6d6",
-"title": "Ceremonial Weigh-Ins | Noche UFC",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9FeTlFNlhic25FOWhmMHZ2YWs0SXA4eUZXSTNhcHlfNHRWWW8zczdreHNXYkMwXzY1ekpmNDdHbW5iNktkOFE?oc=5",
-"source": "UFC公式",
-"genre": "mma",
-"cat": "news",
-"desc": "Ceremonial Weigh-Ins | Noche UFC UFC公式",
-"ts": "2026-09-12T09:06:46+09:00"
-},
-{
-"id": "b05089ed9f35",
 "title": "Ceremonial Weigh-Ins | Noche UFC",
 "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9FeTlFNlhic25FOWhmMHZ2YWs0SXA4eUZXSTNhcHlfNHRWWW8zczdreHNXYkMwXzY1ekpmNDdHbW5iNktkOFE?oc=5",
 "source": "UFC公式",
@@ -1981,16 +1931,6 @@
 },
 {
 "id": "c37d762e75e0",
-"title": "Weigh-In Highlights | Noche UFC",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1NR1JDNm9Xd0EyTnpzckVRcHpQUjExRExpbi1xYXBGNzlzelFjME5jeEZFNGhUMWRiOVd3SUpkRkk2YXhwSEE?oc=5",
-"source": "UFC公式",
-"genre": "mma",
-"cat": "news",
-"desc": "Weigh-In Highlights | Noche UFC UFC公式",
-"ts": "2026-09-12T05:12:23+09:00"
-},
-{
-"id": "e0ee1e21149a",
 "title": "Weigh-In Highlights | Noche UFC",
 "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1NR1JDNm9Xd0EyTnpzckVRcHpQUjExRExpbi1xYXBGNzlzelFjME5jeEZFNGhUMWRiOVd3SUpkRkk2YXhwSEE?oc=5",
 "source": "UFC公式",
@@ -2920,16 +2860,6 @@
 "ts": "2026-09-11T10:15:00+09:00"
 },
 {
-"id": "cce21a75d9b8",
-"title": "目指すは格闘技の殿堂、マディソン・スクエア・ガーデン！ K-1社長が明かす「グローバル化戦略」",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc1dRTWhYVktoUWlVYTFCcHhyb3lfS1NYRUYyWVROcVQ3LTNTcmpnbHpiWjVFSWFhcTlJX0p0WWVpQ1UzTFhjMnZWRjk1NDR0Z1BVU1lvd2l0bTNNdHZvVGRhOG1qSzh3V0M0UWw3SzNDZWluWUJ0a1hhWkp6VjJoTmQ1TU04MkQ1?oc=5",
-"source": "Yahoo!ニュース",
-"genre": "general",
-"cat": "news",
-"desc": "目指すは格闘技の殿堂、マディソン・スクエア・ガーデン！",
-"ts": "2026-09-11T10:15:00+09:00"
-},
-{
 "id": "a7ca09f8c010",
 "title": "【RIZIN】「怪物を見つけた」“偉業達成”シェイドゥラエフに海外衝撃 マッキー撃破でついに世界進出「彼は本物だ」（ENCOUNT）",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYkg4Q1JlWkZjdXlOQ2trYXVndVF0aHBib01KajFrZTk2bWtPZkZCUTA3V3hMQkdkSExYWGx0R2YwS0NFZENVU2lvRFFNMVZKNHJIRjJ2aWZkSjhyc19jSGxIWTRfQ2ZMZkZUUElvWHlFUHk0LW12SnRiM1lLa2s?oc=5",
@@ -3477,16 +3407,6 @@
 "genre": "mma",
 "cat": "result",
 "desc": "「超RIZIN5」全試合結果レポート 朝倉未来がKO勝利、シェイドゥラエフは4度目の防衛とPFL王座戴冠 KAI-YOU",
-"ts": "2026-09-10T23:17:00+09:00"
-},
-{
-"id": "1e3eb7745911",
-"title": "「超RIZIN5」全試合結果レポート 朝倉未来がKO勝利、シェイドゥラエフは4度目の防衛とPFL王座戴冠",
-"link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Qam00TENMeTNETWdBYlFvVm9YX3R0OVNOalZvY3cxRzhhTGVhOC1ObWdUY2oteTAtbGN3VVpUY2duSElTQS1qbQ?oc=5",
-"source": "kai-you.net",
-"genre": "mma",
-"cat": "result",
-"desc": "「超RIZIN5」全試合結果レポート 朝倉未来がKO勝利、シェイドゥラエフは4度目の防衛とPFL王座戴冠 kai-you.net",
 "ts": "2026-09-10T23:17:00+09:00"
 },
 {
@@ -4970,16 +4890,6 @@
 "ts": "2026-09-10T12:07:02+09:00"
 },
 {
-"id": "402a0f978143",
-"title": "ライアン・ガルシアとコナー・ベンによるWBC世界ウェルター級タイトルマッチボクシング界注目の一戦を、U-NEXTで国内独占ライブ配信決定",
-"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nOFlWUzV6UURRek05QzEzWVhXNmNHcEI0X3J0MVUweFBvWkFRc0ZRZ1hFRW5rNkg3M00tN0d0a2dnUndVaDJqLThfQWtsZWZUSUoyYndRVl92c1g1UzF4SDJIdlYxSTc0aEE?oc=5",
-"source": "PR TIMES",
-"genre": "boxing",
-"cat": "info",
-"desc": "ライアン・ガルシアとコナー・ベンによるWBC世界ウェルター級タイトルマッチボクシング界注目の一戦を、U-NEXTで国内独占ライブ配信決定 PR TIMES",
-"ts": "2026-09-10T12:01:23+09:00"
-},
-{
 "id": "655f75ba4de1",
 "title": "元K-1王者・魔裟斗のかっ飛ばしショットに賛否両論！ 「そのうち300ydキャリーですね」「力入ってるよ〜」",
 "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ1JSV1FpR3Jpa3RsT05SSlFaVFhoZnVJbVBNR0dUUnhqX0JXSU9YbVg4OEVPTzRCY00zMGpPTXFFcjVnT3o0SFVxTFB5LUZNNjFqbm1KVS1vT2JqYUU3dHRnaU9yYUFIVGh2aGxpR1NuTkZGbmZscHY2MEFVSWMzSTVDQdIBdkFVX3lxTE9zWDJhVmtUR3l3V2xzZE8xTnZFSnhtak91T0wzUzI4STQ3X2YzcGpzRnB4U3RlTjd1TlhmMkFMTHpVdjdsWFNmUU95MkRNeUpRN0ZQUVgxdjZZbDIzcGJfTWpLa3ZRSkNsc0JNRmdqc3pieWR1UXc?oc=5",
@@ -5250,16 +5160,6 @@
 "ts": "2026-09-10T06:20:38+09:00"
 },
 {
-"id": "62c30b4b2cc7",
-"title": "Pre-Fight Press Conference | Garcia vs Benn",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4zSm1CWjlNVWJSRjk0dERIbGJiUVREOW15dXJmU2hFR1NHdTBRSmtZWnFqbmd3WWxqeTA2eW9mMXVJUGVPRkE?oc=5",
-"source": "UFC公式",
-"genre": "mma",
-"cat": "news",
-"desc": "Pre-Fight Press Conference | Garcia vs Benn UFC公式",
-"ts": "2026-09-10T06:20:38+09:00"
-},
-{
 "id": "8a8609dde583",
 "title": "竹原慎二氏「井上尚弥はじめね、天心が今、盛り上げて頑張ってるじゃん」",
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbjg3Y0RpTnJ4dUNhQ2tLNlY4N1hodk90WjYydWlUY0ZzUVYwN05zZ2JHdzVUczlya3NyQlhJc0ZCc3VNd19uS0JUdzFJcmlpSWRSWFF2UDAzbFNrSUx6Y0FTSnZGaWdNZFpoMzBIWGlJUTFFTjV0UW1kVXRlcWJOXzZGZ0FCczVrSEF3ODNnbUJXUnVO0gGKAUFVX3lxTE9MWmtVZ2RJRnlwN3FfRm9YU00yWGhhZ0l4Qkg4RDczci1fSmNSeE9aNHBpVDl0OWZFNFppVHN2WVlRUFdSV0xFdlhueEw5QV9qUG43bzhiczd6NmY5eHJhUEhqRmxsTVZCdy1NaHBsLTJSUW0yNmxGLUNsNGlvQkZsSE54UTg4RnBiUQ?oc=5",
@@ -5297,16 +5197,6 @@
 "genre": "mma",
 "cat": "news",
 "desc": "Ryan Garcia Sit-Down Interview | Garcia vs Benn UFC.com",
-"ts": "2026-09-10T05:21:57+09:00"
-},
-{
-"id": "24a04fae1356",
-"title": "Ryan Garcia Sit-Down Interview | Garcia vs Benn",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Zelg1SGdzYjF3dFpjWGhvS05haGNGWXJYdUtUbGQ3dFc0Q0l6VHRvYlp1RUtwLWxPTkRvTm1YN2pWQzlNU3c?oc=5",
-"source": "UFC公式",
-"genre": "mma",
-"cat": "news",
-"desc": "Ryan Garcia Sit-Down Interview | Garcia vs Benn UFC公式",
 "ts": "2026-09-10T05:21:57+09:00"
 },
 {
