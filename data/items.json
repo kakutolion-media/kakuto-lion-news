@@ -1,5 +1,35 @@
 [
 {
+"id": "53f1ff890a23",
+"title": "【Lemino Shooto09】山内渉、シモン・スズキ戦へ「もっと格闘技をスポーツ的にやって勝つ」",
+"link": "https://mmaplanet.jp/241295?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590lemino-shooto09%25e3%2580%2591%25e5%25b1%25b1%25e5%2586%2585%25e6%25b8%2589%25e3%2580%2581%25e3%2582%25b7%25e3%2583%25a2%25e3%2583%25b3%25e3%2583%25bb%25e3%2582%25b9%25e3%2582%25ba%25e3%2582%25ad%25e6%2588%25a6%25e3%2581%25b8%25e3%2580%258c%25e3%2582%2582%25e3%2581%25a3%25e3%2581%25a8%25e6%25a0%25bc",
+"source": "MMAPLANET",
+"genre": "mma",
+"cat": "info",
+"desc": "【写真】前日計量をクリアした山内。",
+"ts": "2026-10-18T17:38:16+09:00"
+},
+{
+"id": "25bcb5ccc9cb",
+"title": "【Lemino修斗】バンタム級T決勝・齋藤奨司「大トリに相応しい試合を」vs.野瀬翔平「優勝して一番になる」、中島陸が救急搬送で須藤拓真戦は中止に。倉本一真vs.パク・チウ、マヨッキvs.吉野光、フライ級・山内渉「全部出し切る」vs.シモンスズキ「積み重ねてきたものがある」、岡田嵐士vs.打威致も",
+"link": "https://gonkaku.jp/articles/25156",
+"source": "ゴング格闘技",
+"genre": "general",
+"cat": "info",
+"desc": "2026年10月19日（月）東京・後楽園ホールで開催の『Lemino修斗.9』（ Lemino配信 ）の前日計量が18日12時から都内にて行われた。",
+"ts": "2026-10-18T17:26:00+09:00"
+},
+{
+"id": "0ee0cc504974",
+"title": "【ONE】秋元皓貴にTKO勝ちで防衛成功した王者ハガティ―、次はナビル・アナンとの防衛戦か、ムエタイ王座との二種目制覇へ「この階級で私が世界最強なのは間違いない」",
+"link": "https://gonkaku.jp/articles/25157",
+"source": "ゴング格闘技",
+"genre": "general",
+"cat": "result",
+"desc": "2026年10月17日(土)東京・有明アリーナにて『 ONE SAMURAI 4 』（ U-NEXT配信 ）が開催された。",
+"ts": "2026-10-18T15:17:13+09:00"
+},
+{
 "id": "8cff5c11ced2",
 "title": "【ONE】秋元皓貴陣営が王者ハガティ―の違反行為を指摘「ルール違反行為の有無およびレフェリングについて、正式な説明を求めます」",
 "link": "https://gonkaku.jp/articles/25155",
@@ -10,7 +40,7 @@
 "ts": "2026-10-18T12:52:29+09:00"
 },
 {
-"id": "98aeb7525019",
+"id": "4876d1fec3af",
 "title": "ダニエル・デュボアが勝利後大胆宣言「俺の時代だ」フルゴビッチと統一戦を視野に | ボクシング",
 "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdmg1QnQ3c3Q1anEtQlNDODVaYy1TMUpBZ0x3eWZfdUdNZmRIcEs0MVRhb3ZnUkRhUVgzR1JHNlZZaVY3a3BLT1lnSjZfdnBjREVjbGEtYTRCMU5oTHFPbW80b2VzbHVZMlhldklZanNQajZ5dzJLMVU3R2hFNDlxdW1lTmdFdlJITXpNMVlXUzhkLVQ3NzExYXVDZjZaZGlIZUphQXRpaVBXTEtLWTZLMF9XS2NBRkhuMmNVS2RzRElPRHVlSzBOYXhfTEUyMUh3N2h4b25SbjFSNUZMd0UwSHJ6Y1ZLZEpsMm9NNlV6WlllUl9lUkE?oc=5",
 "source": "DAZN",
@@ -20,7 +50,7 @@
 "ts": "2026-10-18T12:40:00+09:00"
 },
 {
-"id": "decec1b781b8",
+"id": "6ba8fda9f646",
 "title": "【レビュー】ダニエル・デュボアがファビオ・ウォードリーを粉砕しWBO王座防衛 再戦を短時間で制す | ボクシング（DAZN News）",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OZjFvSUVPVHI4V3FqYU1tdWVhU0FGbmF4eHFhZlZtVm9rMFdBUWZCb3J0bUR0QVdjNTBwVU1GNmhOSUJBZC1fYi1YWEl5SjFrR01zUDhCLUNHbnVxbllncVJhWFl5TXhkOThEMzBLdFM1QnZCSmV6d01lQndQVVk?oc=5",
 "source": "Yahoo!ニュース",
@@ -180,16 +210,6 @@
 "ts": "2026-10-18T08:34:45+09:00"
 },
 {
-"id": "0451cde21ca5",
-"title": "亀田のボクシング世界戦は中止に 相手が体重超過の体調不良で | 全国のニュース",
-"link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EaUw5SHduSl92czNfRzRmYl9jajA4YUZfVUZXTjZaZmM1WXEtbXBldENvU1lzMC1oMFZHdkxnM0xZY0x5d2hQN3NkT0h6NjdTa1lvajRWVjhWek5tMWc?oc=5",
-"source": "福井新聞社",
-"genre": "boxing",
-"cat": "news",
-"desc": "亀田のボクシング世界戦は中止に 相手が体重超過の体調不良で | 全国のニュース 福井新聞社",
-"ts": "2026-10-18T08:34:45+09:00"
-},
-{
 "id": "d0ba4af4dce2",
 "title": "亀田のボクシング世界戦は中止に 相手が体重超過、体調不良で (共同通信)",
 "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHZpZlhCNEYxOHFKSDBYd1VrenMwUmliVnhoMDRXandTMHdFbjNsekJOcktDY1ZRc2ItRWNfRXFTYkJmQ3ZOMHlEamw5RDJSV1A1R2E5R251QXNEaUFuSEZ1czAxTzFDbGVBRUl4WUx4Mko2Z0hNR20xTGJMWDZfLU1MeF9DN3VleTNoVVVR?oc=5",
@@ -300,16 +320,6 @@
 "ts": "2026-10-18T05:15:00+09:00"
 },
 {
-"id": "48c675f1842e",
-"title": "佐賀県高校新人ボクシング＞バンタム級・八谷、ライト級・橋本、ウエルター級・中野が決勝進出 | スポーツ | 佐賀県のニュース",
-"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zeUxHZlVlRTkyQ0luYjc4VnV5WHppQjhvWEhfU01aZVU0d2tJUFRBZ0Fub3AzVUR3SlRRTEV3UjNWM283LWtWY1N3T3pqYlZjOEJ0QlRR?oc=5",
-"source": "佐賀新聞",
-"genre": "boxing",
-"cat": "news",
-"desc": "佐賀県高校新人ボクシング＞バンタム級・八谷、ライト級・橋本、ウエルター級・中野が決勝進出 | スポーツ | 佐賀県のニュース 佐賀新聞",
-"ts": "2026-10-18T05:15:00+09:00"
-},
-{
 "id": "bd5922bf6fe7",
 "title": "ボクシング元世界王者・多田悦子さん、アルコール依存症脱却を支援 「笑顔プログラム」で自己肯定感向上促す",
 "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CU3RpaGxMbkZZcDlqenVQcktvc3dBMVdxRTNESnN1ZElJUjJEZF85SVR4NVhxOHlhdndOQnQzYW1SUkhuVVZJRHRJeVBaQkxHeUpIS2hQMWNXOTZrSFZWVkhIcGs5aFVEZ1BnWm9B?oc=5",
@@ -400,16 +410,6 @@
 "ts": "2026-10-18T00:26:41+09:00"
 },
 {
-"id": "6194e87da749",
-"title": "「引退するつもりはまったくない」 ウォードリーがチゾラ発言を一蹴 | ボクシング",
-"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd1VYRnVIdmExT0s3bnM4c1IyalNVWlhCUjl1aTJOWkhyYkRDZU9neHpDcVdxQjBIeXhJakFLVXI0RnhKcDNVMkVELXpJSDNzeElrZk5WclNYWlAtN3Z2WlhRZWZQODFmSHJ2UlByVUw5Tk5Xc0VHWkxhTnZRQkpwaGI4X1dMYkZTSkh0elZvM1BhZ0FDU2VBb3l3V2V1VHRvWFJ0d2FYcGlBVTRral9GRFFVQnJiODVFNTdRa25tc214dEU1V1JOLTZlTmRKeWtPZElmNlh6MWJzdkdkRWdMZk5UWUduZ1hkYWh5Ul92Nk8wQlhNaTJvZ2d3?oc=5",
-"source": "DAZN",
-"genre": "boxing",
-"cat": "news",
-"desc": "「引退するつもりはまったくない」 ウォードリーがチゾラ発言を一蹴 | ボクシング DAZN",
-"ts": "2026-10-18T00:26:41+09:00"
-},
-{
 "id": "5edd368517f3",
 "title": "間も無くゴング！ 井上尚弥戦を切望していたWBAフェザー級王者が体重オーバーでタイトル剥奪（林壮一） - エキスパート",
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1FzT21tN3J2UnNtazIyMG1ZN3JITlBFNWJUOXRxV2p2aElPSWlyNHV0VC1lQmVzQWhmMFcyYjBGV0oxUGN2M216dFNvVW51TUI5Q0RtY1BIZTBSd2syMnRqQVAxTXNlNWdDR2RnMDZyZDBZbmlhb0JXOXI4VTlMYnB1YlpsTEM3?oc=5",
@@ -418,16 +418,6 @@
 "cat": "news",
 "desc": "間も無くゴング！",
 "ts": "2026-10-18T00:06:15+09:00"
-},
-{
-"id": "efb10110869f",
-"title": "間も無くゴング！ 井上尚弥戦を切望していたWBAフェザー級王者が体重オーバーでタイトル剥奪（林壮一） - エキスパート",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1FzT21tN3J2UnNtazIyMG1ZN3JITlBFNWJUOXRxV2p2aElPSWlyNHV0VC1lQmVzQWhmMFcyYjBGV0oxUGN2M216dFNvVW51TUI5Q0RtY1BIZTBSd2syMnRqQVAxTXNlNWdDR2RnMDZyZDBZbmlhb0JXOXI4VTlMYnB1YlpsTEM3?oc=5",
-"source": "Yahoo!ニュース",
-"genre": "boxing",
-"cat": "news",
-"desc": "間も無くゴング！",
-"ts": "2026-10-18T00:01:18+09:00"
 },
 {
 "id": "dcd7349eb45d",
@@ -460,16 +450,6 @@
 "ts": "2026-10-17T22:42:08+09:00"
 },
 {
-"id": "9a6202a97624",
-"title": "ダニエル・デュボア「嵐をしのいで」再びウォードリー撃破に自信 | ボクシング",
-"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOXdoY3pGbTV6R2Z5bmR1OEdoSGt0NEtaWDY0RDJJclctUUdBU1QyVnRwRmZmZV9VQkF0RWRkVFZiZEhKV2YtVHhrMEREdDgtNmJQT0ktX3hqdGJKblZqRnpBcnJhS2xacklYTjFuME0tU3dMWkpRQkZva2JTVTljbjRWMFZ5MWV0Mmd6ZjM3QWE5V21qc2Y3SGJoNTluUm82Q29MaHNmZms0Q2M2N2lnOFlZNnNocHhDeWNqNkt2RjNYdUhSb3oyX202dWJqSEVDX3paanVHdmY4TzQzZUhDeE14b0NkcTl6Ym5hVjBtWVJRZGtteElOams0N2VDSHc?oc=5",
-"source": "DAZN",
-"genre": "boxing",
-"cat": "result",
-"desc": "ダニエル・デュボア「嵐をしのいで」再びウォードリー撃破に自信 | ボクシング DAZN",
-"ts": "2026-10-17T22:42:08+09:00"
-},
-{
 "id": "a0e7ca2b2ae1",
 "title": "ウォードリー、再戦前に「新戦術」を予告 デュボアとのヘビー級世界戦へ自信 | ボクシング（DAZN News）",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XaGlFVXNLck9tUmdTeVdpaWpPa0Ntb0NMMDZYMDI5QUFyZEtSTWtsWFlxblU5STRObEpnQVFPaDhDbWhMU3hfc3FBMXJWWkk2UzVQZFZwOG1NTm82NW9IZGlwNkJmZUI3S0JTbHNxZ0dtQ0FLYkxmSXc2dk1lR0U?oc=5",
@@ -488,16 +468,6 @@
 "cat": "result",
 "desc": "2026年10月17日(土)東京・有明アリーナにて開催された 『ONE SAMURAI 4』 （U-NEXT配信）の大会終了後、勝利者インタビューが行われた。",
 "ts": "2026-10-17T22:29:16+09:00"
-},
-{
-"id": "9974f02f7d4a",
-"title": "ウォードリー、再戦前に「新戦術」を予告 デュボアとのヘビー級世界戦へ自信 | ボクシング",
-"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS0h6UktqbXlqUmtRb1k0eUVNaURYbzhpaE55RHVVTjFLSDNDbTdYZUt4bWUwQ0UwejBPNHM1TFF0MEk2Ymlob05zUlZldjRrMHJCSXl5ZVBXV19XUExIcmtrYUFtbVlpeFlJaDIxeTJHQnJ0YnZNR3ZUNEVCdFV2a0FkVDdRWmZWTWhGb0ZoQVh6UnhyRFdKdnAxNjkyZXZSTk8wYjFXTFlkc1k2NzN2TUhUbnpkOUR5bEMxWTJNTFhMUWRZTll3S3VBSkpEZ1o2dTZsM05zVkxDWnM0WUNNTU5EalU3bWNjY3g3ZkRPN0Y0NkdRa1JF?oc=5",
-"source": "DAZN",
-"genre": "boxing",
-"cat": "news",
-"desc": "ウォードリー、再戦前に「新戦術」を予告 デュボアとのヘビー級世界戦へ自信 | ボクシング DAZN",
-"ts": "2026-10-17T22:28:15+09:00"
 },
 {
 "id": "f929a13f365e",
@@ -531,16 +501,6 @@
 },
 {
 "id": "ad04b2019b9e",
-"title": "ダニエル・デュボア「カオスを解き放つ」宣言でファビオ・ウォードリーとの再戦へ | ボクシング",
-"link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRGsxSVVpaXNJTWRDR3h1dXoya2lqd1JoWkcwclkxdm84QVRBd3J3empLZjFhZWNSRElMSW8yUVltd01LMUtHcVJrcGxvaERHVmt3Z3NyVTN3S1d2ODBNUWZPS0xZZHNTSGlrQnl1WE80YkJIRjhMbmVnSEZWbE5EYlVyQW1WQnVsdjJZbUJyX2pOX2ZWRnp0OUVCU1VGWmpLekdmNHhUUnBxTE1FRHUtcnV6cE50NnNianZZYkxpR2I4MU9JaEkyTzdiVE92U0ZEQ3dTWmhHc1FHQWhyTEFRVjFlRGVURHVfSWVWRGpR?oc=5",
-"source": "DAZN",
-"genre": "boxing",
-"cat": "news",
-"desc": "ダニエル・デュボア「カオスを解き放つ」宣言でファビオ・ウォードリーとの再戦へ | ボクシング DAZN",
-"ts": "2026-10-17T21:37:38+09:00"
-},
-{
-"id": "66735849a005",
 "title": "ダニエル・デュボア「カオスを解き放つ」宣言でファビオ・ウォードリーとの再戦へ | ボクシング",
 "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRGsxSVVpaXNJTWRDR3h1dXoya2lqd1JoWkcwclkxdm84QVRBd3J3empLZjFhZWNSRElMSW8yUVltd01LMUtHcVJrcGxvaERHVmt3Z3NyVTN3S1d2ODBNUWZPS0xZZHNTSGlrQnl1WE80YkJIRjhMbmVnSEZWbE5EYlVyQW1WQnVsdjJZbUJyX2pOX2ZWRnp0OUVCU1VGWmpLekdmNHhUUnBxTE1FRHUtcnV6cE50NnNianZZYkxpR2I4MU9JaEkyTzdiVE92U0ZEQ3dTWmhHc1FHQWhyTEFRVjFlRGVURHVfSWVWRGpR?oc=5",
 "source": "DAZN",
@@ -781,16 +741,6 @@
 },
 {
 "id": "5b70a5c31372",
-"title": "【ONE】170センチの与座優貴、192センチのナビル・アナンに〝与座キック〟で攻めるも0-3で判定負け",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOFNSaWN6YjJZOEs1ZmcxS3VSeUJxSEVJTXVCb051cVNWREpxVDlGcm9YSkNsc2hWektvYmwxVU5TdGp0d3QyYk9oelVqckROdlhWREZTbGZqbEV3MU9xTE42MDdkdS1pa2cwNTBLS1hWeVhlSVBLR2kyc1lZdVdkMm5Xd0Y4Y1JzRG85SDZPZU1oT2E20gGKAUFVX3lxTE1WTXR2MFlSUjdKOWZLU2FXaXVrZXhId3RaUldzalh2a3FNdVl4dVhSR0dLc3pZdW5uWnZxSzMwdUdKZGJYNG9KdzJXTzNtbUFJT2xQdTRhdm1vZFpHYXh1S1pNSHRHNnJPTHJRMnZkS3otVmtTbWtwWDV1QXlrMmM0VG5tWTEyQ1RhUQ?oc=5",
-"source": "サンスポ",
-"genre": "general",
-"cat": "result",
-"desc": "【ONE】170センチの与座優貴、192センチのナビル・アナンに〝与座キック〟で攻めるも0-3で判定負け サンスポ",
-"ts": "2026-10-17T18:33:00+09:00"
-},
-{
-"id": "e4c8c554dce7",
 "title": "【ONE】170センチの与座優貴、192センチのナビル・アナンに〝与座キック〟で攻めるも0-3で判定負け",
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOFNSaWN6YjJZOEs1ZmcxS3VSeUJxSEVJTXVCb051cVNWREpxVDlGcm9YSkNsc2hWektvYmwxVU5TdGp0d3QyYk9oelVqckROdlhWREZTbGZqbEV3MU9xTE42MDdkdS1pa2cwNTBLS1hWeVhlSVBLR2kyc1lZdVdkMm5Xd0Y4Y1JzRG85SDZPZU1oT2E20gGKAUFVX3lxTE1WTXR2MFlSUjdKOWZLU2FXaXVrZXhId3RaUldzalh2a3FNdVl4dVhSR0dLc3pZdW5uWnZxSzMwdUdKZGJYNG9KdzJXTzNtbUFJT2xQdTRhdm1vZFpHYXh1S1pNSHRHNnJPTHJRMnZkS3otVmtTbWtwWDV1QXlrMmM0VG5tWTEyQ1RhUQ?oc=5",
 "source": "サンスポ",
@@ -1641,16 +1591,6 @@
 },
 {
 "id": "22b6985c93fa",
-"title": "元K-1王者・石田龍大の相手は、斗麗に決定！KO必至のヒリヒリ対決が実現＝11.23K-1REVENGE II｜K-1.CLUB",
-"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2UUFIMklCMkNxZVBPTTRSeHVKai1GR051Tkwta0tXblpPaWRPcHVlV2dHV0VEeDE2VngyR0NUQ1A5clNGVHpOS1ozRGdSZFNM?oc=5",
-"source": "チケットぴあ",
-"genre": "general",
-"cat": "result",
-"desc": "元K-1王者・石田龍大の相手は、斗麗に決定！",
-"ts": "2026-10-17T02:13:22+09:00"
-},
-{
-"id": "12c72ae05259",
 "title": "元K-1王者・石田龍大の相手は、斗麗に決定！KO必至のヒリヒリ対決が実現＝11.23K-1REVENGE II｜K-1.CLUB",
 "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2UUFIMklCMkNxZVBPTTRSeHVKai1GR051Tkwta0tXblpPaWRPcHVlV2dHV0VEeDE2VngyR0NUQ1A5clNGVHpOS1ozRGdSZFNM?oc=5",
 "source": "チケットぴあ",
@@ -3130,16 +3070,6 @@
 "ts": "2026-10-15T09:18:54+09:00"
 },
 {
-"id": "2402121f62ff",
-"title": "井上尚弥がフェザー級転向示唆！バムとのメガマッチを待つ必要はない理由 #エキスパートトピ（木村悠） - エキスパート",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVjNHYXZoQi16NjQwdWV1UGQxcE1vWVBfMkYxWkhnVmxoOUh1Y2xTcm5BeDYxWUZxblc5MkhVNmV2aDZGYkVITjBJd21CdmJIWnNpdVhYeFB2eXFCQWstcnMyZzVpM3IyRUpWNXY2NXg1LTNET0daUTNiLWhwQldNTjdteWRqdWJY?oc=5",
-"source": "Yahoo!ニュース",
-"genre": "boxing",
-"cat": "rumor",
-"desc": "井上尚弥がフェザー級転向示唆！",
-"ts": "2026-10-15T09:18:54+09:00"
-},
-{
 "id": "e80b68158822",
 "title": "伊志嶺がライト級準Ｖ／県高新人ボクシング",
 "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBueXhrN3pJT1N6amZQOVlQWENqSmFfREZVWmFYV3lZekYwcGFScUJJMnZ5RzlIcU9wVUF4SUpzcm1qSW9fa3pfckh2eXZaV3lSc09CeWx4VjVSN2kx?oc=5",
@@ -4011,16 +3941,6 @@
 },
 {
 "id": "9eb81182288b",
-"title": "【K-1】皇治の参戦匂わせに宮田Krushプロデューサーが怒り「来る気ねえくせにK-1舐めやがって、いい加減ムカついてきた」",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51XzRhWnRjcjZUdmhtOTJJekU1bVRXT3BfLWJXZS1GVXB4TXNYX0hGMDNQMjh1aUR0LUNXZWZsVm1RTjFPX3l4SHFYbnE1N3ZFSzdId2Rqa3g4d3NKRDJGeF9vcDF4ajRsbzZWLXpkd0lpWUQ5MTJuSzV2bGJQWXc?oc=5",
-"source": "Yahoo!ニュース",
-"genre": "general",
-"cat": "rumor",
-"desc": "【K-1】皇治の参戦匂わせに宮田Krushプロデューサーが怒り「来る気ねえくせにK-1舐めやがって、いい加減ムカついてきた」 Yahoo!ニュース",
-"ts": "2026-10-14T12:02:51+09:00"
-},
-{
-"id": "d7aaf1184cac",
 "title": "【K-1】皇治の参戦匂わせに宮田Krushプロデューサーが怒り「来る気ねえくせにK-1舐めやがって、いい加減ムカついてきた」",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51XzRhWnRjcjZUdmhtOTJJekU1bVRXT3BfLWJXZS1GVXB4TXNYX0hGMDNQMjh1aUR0LUNXZWZsVm1RTjFPX3l4SHFYbnE1N3ZFSzdId2Rqa3g4d3NKRDJGeF9vcDF4ajRsbzZWLXpkd0lpWUQ5MTJuSzV2bGJQWXc?oc=5",
 "source": "Yahoo!ニュース",
@@ -7401,16 +7321,6 @@
 },
 {
 "id": "ebb7f5132147",
-"title": "【LIVE】『UFCファイトナイト：バックリー vs. マロット』のライブ配信について",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10eTI3YVdEdTA3Ri1senBkR0lHQ2ZrQWM0YzF2aFNwRXpub001c1R6SHRKMVNlQktSZGx2dDg4UjJJaWZUd3l3Vjh0bEQ2YS1Hd0J6TUg3OXpFWU0w?oc=5",
-"source": "U-NEXTヘルプセンター",
-"genre": "mma",
-"cat": "info",
-"desc": "【LIVE】『UFCファイトナイト：バックリー vs. マロット』のライブ配信について U-NEXTヘルプセンター",
-"ts": "2026-10-09T12:04:08+09:00"
-},
-{
-"id": "202ac0c7da00",
 "title": "【LIVE】『UFCファイトナイト：バックリー vs. マロット』のライブ配信について",
 "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10eTI3YVdEdTA3Ri1senBkR0lHQ2ZrQWM0YzF2aFNwRXpub001c1R6SHRKMVNlQktSZGx2dDg4UjJJaWZUd3l3Vjh0bEQ2YS1Hd0J6TUg3OXpFWU0w?oc=5",
 "source": "U-NEXTヘルプセンター",
