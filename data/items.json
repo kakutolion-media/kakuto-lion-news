@@ -1,5 +1,95 @@
 [
 {
+"id": "4df27b249bc8",
+"title": "全日本マスボクシング 小中高生女子３人が初出場で入賞",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yckJlaW5ZcGVKS1JZUWozNHF5ZVpXbUpkQjVDTVUyajBneVdrMG1WdGNLanBNZmVFb3pRM0tjZkt3LUdxbHJRQVRzN1laQktMNTVWTF8yeFBoYkxOZENJ?oc=5",
+"source": "伊豆新聞デジタル",
+"genre": "boxing",
+"cat": "info",
+"desc": "全日本マスボクシング 小中高生女子３人が初出場で入賞 伊豆新聞デジタル",
+"ts": "2026-10-29T03:04:02+09:00"
+},
+{
+"id": "ebfbb9c2cf14",
+"title": "11月～12月開催のボクシング10興行をU-NEXTで独占ライブ配信決定！",
+"link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XaGFOa2l6eWN0Z0J2VmtTTzRCTEFpeGtSenYtc0ZrYzZxa1VqRmpKMlhCaVl6VTEzU1RtQ2VJVGJJb28wMUJwYTJiSExtS3lhcUl4ekZfZE12TmttUUFoZlBBaTZiTzBQ?oc=5",
+"source": "ニコニコニュース",
+"genre": "boxing",
+"cat": "info",
+"desc": "11月～12月開催のボクシング10興行をU-NEXTで独占ライブ配信決定！",
+"ts": "2026-10-29T02:45:22+09:00"
+},
+{
+"id": "1d3d34e87161",
+"title": "Zuffa Boxing 12 Official Fight Card",
+"link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5dWFOUXNQTmZjTUtkVjB3U1l1MlE3eXdnQW44eVNMcFAtRXM3YlpzdHgwQjlwN056TWh4bTc3cUJpUUx5Ri1EVUd0NFRYMG05OVo3ZFRXeno4NGdZRWdIMW5jQVlHUGhoRmRN?oc=5",
+"source": "UFC.com",
+"genre": "mma",
+"cat": "news",
+"desc": "Zuffa Boxing 12 Official Fight Card UFC.com",
+"ts": "2026-10-29T02:18:24+09:00"
+},
+{
+"id": "dbf39ceea7fb",
+"title": "クリスチャン・エムビリはカネロを倒せるか？ 無敗の挑戦者が格闘技界のレジェンドを破った5つの番狂わせ",
+"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdDJ3R0RQUDhCRlFUQUxUYzdreWVRWHZmNTVhaUIyNUJDaS1qVzhlOEctOFk1N2lrOWp4R0VwTGduR3gyY3h5MVgwQTVkOHhweS1vc3V2QlFzWXNuMk90R0VkQlZncHZ3dkt6ZE9WdmlYdXFmZDNwTFBPX2VtVlZaOHdnZHpmamQzSW9YTnduRC1wSmtzSlpSWDFLMTRsS0tPVTRLd3JfUnAxNmt0WnY3eHl4LUJYcHhUZEpfblJYYno3R2RYYVdtMm5NUTFFcHJaNzZhc25wbWU5NDY4ZkhNc2RmUWVRcGFiU2dzbHBjZV9qY1ZvZEl3ZlZ3?oc=5",
+"source": "DAZN",
+"genre": "boxing",
+"cat": "rumor",
+"desc": "クリスチャン・エムビリはカネロを倒せるか？",
+"ts": "2026-10-29T01:31:11+09:00"
+},
+{
+"id": "a5dbb22ee968",
+"title": "カネロは世界王座を奪還できるか？ 再び頂点に立った格闘技王者5人",
+"link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbmNITXBSSTdIdTMxUE1Na0syd3RJcHZXNVhFWEJ2U3lBbExPM2hhY2tYWGJSQWJFbnJaVC1WYkdfVnBGTTltSTVfV19ncG10X3N3eXgyNVh5WVoxRlAyUEk3MmpVVU5QZUdIOTlabEVRNERXZFJKSHlQUjN6LUZNRk9vaVBlTkF0b1F5MmktQjg0ZjB1X3pfU2ZYOWwtTzVIX2VvaFotbFQyTV83aHh4d3h4eWI5eDh0UWdHWXhRZDh4aGtGWjhpcUV0a0lvV04xOVA2MVhibDZmVzlxLS1HUG9qNjUxV0pHX0VMZ0xyRVRJLTZTblBTWjJlWQ?oc=5",
+"source": "DAZN",
+"genre": "boxing",
+"cat": "result",
+"desc": "カネロは世界王座を奪還できるか？",
+"ts": "2026-10-29T01:03:04+09:00"
+},
+{
+"id": "5bac6d97add2",
+"title": "Quillan Salkilld e Benoit Saint Denis fazem a luta principal do UFC Sydney",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNFh3WXZIbUZYRjJjRXBGT3E5aDZxZlhyeTNsUGF1eW1ZUDF5Yl9qQUdWZEtuWnNtY2c0czZZUVVwd2g1eFk0MmN4akpqcHlZWjRyR0lkOUNNb2Iyd3dFd1FMQUFwQ01qZERTaVE5d0dLN2tEYXpSZTBSNEJoU3JhNDRxOXJBQnlvdjQ0TWxJb05fYmxN?oc=5",
+"source": "UFC.com",
+"genre": "mma",
+"cat": "news",
+"desc": "Quillan Salkilld e Benoit Saint Denis fazem a luta principal do UFC Sydney UFC.com",
+"ts": "2026-10-28T23:58:30+09:00"
+},
+{
+"id": "b1b344ac5498",
+"title": "パディ・ピンブレットがエヴロエフを批判 UFC 333でヴォルカノフスキーに敗れ「諦めた」と主張",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc3FHU3Y1eGc4YjJVNTNMMVJKRW8tZlhhWGlBc0xrREotLVluLUJycDU5UUZmNnhIUlJ3MUZ4NDhDVGp3YUExR1RTQktjU3psd1RDNURsRVdtTkJONTZabF9EZG1hU0pSYWNqQjF3VkYyckNkZUo3cTNmaTlyZTdjSFdtb0U1ZHdtc3FTVmYxYllicmFvN1hxZi1zczlyd29DbExXNWNJS3d3TFB2d0tBUS1tVzFGUEx1TTVWVkJ5TU01aTEyUlFfajFBTVN1dkRxUHJPVzVDcDNrVDdUWWJHS0c0SlE?oc=5",
+"source": "DAZN",
+"genre": "mma",
+"cat": "result",
+"desc": "パディ・ピンブレットがエヴロエフを批判 UFC 333でヴォルカノフスキーに敗れ「諦めた」と主張 DAZN",
+"ts": "2026-10-28T23:50:33+09:00"
+},
+{
+"id": "4aca5a447133",
+"title": "アデサンヤがペレイラのヘビー級続行に疑問 UFC 335を前に元ライバルを批判",
+"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ24zaEx2TGFDR2FpM1NweU9UQ3hTd0k0QUx0LTlUZEZDTnZqWkVPdU9CbUpTSGxGN2w3MU5MbDNlWUpiX2djcVdjWEo4OGVIaFFWWl9ybGQtMXVOR0VPbFhTT0RvbGRWOXRObXBNUzFzaDh2MEtqbldIaDZjVXNxTmJHaU8weTJjTE56WklraHVSNExoLVBwZW1nZkRiZzZtSjZIVkNTWkFudDdrRmJTSTBpaFFlVUdyYTY2SGRUZjR0UU5hRk0wRm9uelFpdnVFMF9TZm5iNWZXZFItUmhWQkVxN0dBREdRTkNr?oc=5",
+"source": "DAZN",
+"genre": "mma",
+"cat": "news",
+"desc": "アデサンヤがペレイラのヘビー級続行に疑問 UFC 335を前に元ライバルを批判 DAZN",
+"ts": "2026-10-28T23:23:33+09:00"
+},
+{
+"id": "0a357cc6b929",
+"title": "【ボクシング】疑惑のローブロー判定を乗り越えて再び挑戦者決定戦に臨む和田まどか 「KOは次も必ず達成したい」",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiVkozSUR2Ty1BZ2VIZVlrMVVtazBOZnk3d1JLdU13VHNub1gtZmdlMk9RTnhHa0g4Y1pYeV9UdWJxVjRHbmxMVnpoQlVjR0VaNHhJM2tFQjlLOXZiRERCWTNOa1UtNGhWby1XVDB3REpEWnRmbFHSAYoBQVVfeXFMT2lzVms1ZHppemxEendlR3lxUUltSGo3OWxtcGdrakIwREVVSVFxTGZna3lNUmVLaGlNX082dGtoVzBZYThtV1R2UzRsU2w0dWNLVjdQMEV3OWpmMHdlbUVYclNiXzc0NGFyX0FWX1ZOSXBteG5ORG1IQ2pUbFNoZnJ2Wnd5OGhSWnpn?oc=5",
+"source": "サンスポ",
+"genre": "boxing",
+"cat": "result",
+"desc": "【ボクシング】疑惑のローブロー判定を乗り越えて再び挑戦者決定戦に臨む和田まどか 「KOは次も必ず達成したい」 サンスポ",
+"ts": "2026-10-28T22:04:59+09:00"
+},
+{
 "id": "72920b5c873e",
 "title": "【RIZIN】神龍誠、初防衛戦の相手ララミーは「フィジカルは自分より上、でもスピードは自分が上」、ガジャマトフ撃破の伊藤裕樹には「全然まだまだ、相性が悪い相手から逃げてる」、ATTで王座戦前のパントージャとスパーリングで「何とか失神しないように──」",
 "link": "https://gonkaku.jp/articles/25252",
@@ -38,6 +128,16 @@
 "cat": "result",
 "desc": "【写真】仮想ララミーとなったホセ・トーレスとの息もピッタリ (C)TAKUMI NAKAMURA 11月8日（日）に千葉県船橋市のLaLa arena TOKYO-BAYで開催されるRIZIN55。",
 "ts": "2026-10-28T21:10:02+09:00"
+},
+{
+"id": "7371435a5ab2",
+"title": "ライアン・ガルシアvsテオフィモ・ロペスの対戦候補日が浮上 タイソン・フューリーもヘビー級の実力者を絶賛｜今週の格闘技ニュース",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZ3h0MTREMjY0OTZrOE9WejdCUWMyanl6SGRPaFlfQXAzWmdvMGNpYVJBejYyc3lJeC1ualNMbGgxU3FJb3dnTk54WkxfVEdwQ0RjYURzT08xNno2SkREeXo3d3NaenhWYzJ2NlhHd2czS2ZoR0dHSlpRWndhZ0ZFdWtuVlByMXl0WVkyTjVTQW5kZTA2UVEybEhFN25xczJzUjctMms2dzNzQVRzdjE0OXNYbmtuSDRCYmJVT1F5MXZkS1RZbHBzcEdhMFZsZmVkb3h1UG1zNktkZW04UFVQbng4ZkpDX2tNYjBYZWRScC1rVENB?oc=5",
+"source": "DAZN",
+"genre": "boxing",
+"cat": "rumor",
+"desc": "ライアン・ガルシアvsテオフィモ・ロペスの対戦候補日が浮上 タイソン・フューリーもヘビー級の実力者を絶賛｜今週の格闘技ニュース DAZN",
+"ts": "2026-10-28T20:55:23+09:00"
 },
 {
 "id": "2ca3a3b6bba1",
@@ -158,6 +258,16 @@
 "cat": "info",
 "desc": "高校３冠「ザ・ドリーム」片岡叶夢、デビュー２連勝へ「ファンや周りの方を驚かせる」計量クリア 日刊スポーツ",
 "ts": "2026-10-28T19:32:54+09:00"
+},
+{
+"id": "86e7514e0915",
+"title": "【海外の反応】井上尚弥vsバムの一戦を世界王者たちが徹底分析！ドネア・クロフォード・ブラッドリーらレジェンドたちの本音に世界が注目【ボクシング】",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMUTBPQ3dHal90UmF5a09reDVadC0zNjY4cndFS2ZMODhjTnBqV3RvWVVJVEFMdThyaVd2RWYySE5uOFl3ZmxBcXdSUU5jUU9ISGNlU1hEbVM2TVZO?oc=5",
+"source": "YouTube",
+"genre": "boxing",
+"cat": "news",
+"desc": "【海外の反応】井上尚弥vsバムの一戦を世界王者たちが徹底分析！",
+"ts": "2026-10-28T19:30:56+09:00"
 },
 {
 "id": "d014c1ebfe48",
@@ -290,6 +400,26 @@
 "ts": "2026-10-28T17:44:41+09:00"
 },
 {
+"id": "4a21d319f9c0",
+"title": "ボクシングの元王者、堤聖也が美容院を出て１分後に職質された新たな髪形とは - ボクシング写真ニュース",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWG5PVENnMGVpakVJNmlYd0NkWkE5WXctTlJ0MUJKMUNXRThfUTV4VDVEMG9rQW9RVElha3Jxa2tYYlZrSUdFRUVLM21xa2pyYk5QS1RyQVRScnAtWjVNMC1fZ0gxQ1NHZ3lsTERmYXhuaUdMQUNjTWo3Sy1SVi1SRGRFSEI2SXNYSUpxdjdvNmRVUnVla1E?oc=5",
+"source": "日刊スポーツ",
+"genre": "boxing",
+"cat": "news",
+"desc": "ボクシングの元王者、堤聖也が美容院を出て１分後に職質された新たな髪形とは - ボクシング写真ニュース 日刊スポーツ",
+"ts": "2026-10-28T17:35:00+09:00"
+},
+{
+"id": "b10ca6415361",
+"title": "井上尚弥に羨望「あの背筋が欲しい」 肩並べた世界的ミュージシャンが話題「人脈広いっ！無敵」",
+"link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1iY1pKdTBXMjZxMDZCZlpVeDk5ZHZBdHQ1VXdveGY0NXJOSVF5TDk0aHFjMmM5RDh6RW0zZHVHWHF1d0k0YUtRUw?oc=5",
+"source": "the-ans.jp",
+"genre": "boxing",
+"cat": "news",
+"desc": "井上尚弥に羨望「あの背筋が欲しい」 肩並べた世界的ミュージシャンが話題「人脈広いっ！",
+"ts": "2026-10-28T17:31:05+09:00"
+},
+{
 "id": "83bc932cbdae",
 "title": "井上尚弥に羨望「あの背筋が欲しい」 肩並べた世界的ミュージシャンが話題「人脈広いっ！無敵」",
 "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1iY1pKdTBXMjZxMDZCZlpVeDk5ZHZBdHQ1VXdveGY0NXJOSVF5TDk0aHFjMmM5RDh6RW0zZHVHWHF1d0k0YUtRUw?oc=5",
@@ -348,6 +478,16 @@
 "cat": "rumor",
 "desc": "井上尚弥－ジェシー・ロドリゲス戦交渉進展 大橋会長「27年３月開催。",
 "ts": "2026-10-28T16:39:41+09:00"
+},
+{
+"id": "b17c2f5f5313",
+"title": "井上尚弥−ジェシー・ロドリゲス戦交渉進展 大橋会長「27年３月開催。一歩一歩、前向きに」",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeEhmdTJPNU9IcjVicE0yUUZ1Vk9pQk9uNi10SHMtWEdTVkZuZlZLYTQ2Uld2bHBJR2ZZb3JmQTJ6V3hFWkhhSml3Sng0ZHJrM1A0eTFTTk1LVzBhUHpCRk9OTXJHV1JCN2xCOVI1N2Q2eGkzd1IyTzRGWXJ6UzlEdEVIVFNFNXc2em9GYnY0eGZCdlZzaEHSAZsBQVVfeXFMUGxTNDh0Smw4ZVJJaWhIUjhzZTUxVF9SSUhkdlZNMEUxeGJXc3Z5SDgxc2szSGVDSHoxemc0cFVRa01MODUyd0VPMUpiQ3czc3l4Z2NFSGJUTHJWVmhyYW96ZUZwYlVtSmZPbmc4R3BMLUgwQW5EWDN3RkdWLU9rVXhvcnp2eUpfMVFxUnZfNmxEVFFLbFJlNnB0RDA?oc=5",
+"source": "ｄメニューニュース",
+"genre": "boxing",
+"cat": "rumor",
+"desc": "井上尚弥−ジェシー・ロドリゲス戦交渉進展 大橋会長「27年３月開催。",
+"ts": "2026-10-28T16:39:00+09:00"
 },
 {
 "id": "ecfc30630865",
@@ -410,7 +550,7 @@
 "ts": "2026-10-28T16:00:00+09:00"
 },
 {
-"id": "ebfbb9c2cf14",
+"id": "bb0c4566af55",
 "title": "11月～12月開催のボクシング10興行をU-NEXTで独占ライブ配信決定！",
 "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5naGRDZVIxX3R1MXZ5UlNsNFR0d3I0Vk5CUnhrTHhXMVd0WktrVnBCeFpHR0wyMHgxRVA1bXFKa1NqbE5PVXFsX2REbGo5X1FrQmdyZUYyaTNEUEFrVG9JeFBDTzFZbmdyOTNvc25JNTJ5OGJ0dGc?oc=5",
 "source": "Mantan Web",
@@ -470,7 +610,7 @@
 "ts": "2026-10-28T13:57:26+09:00"
 },
 {
-"id": "5599bee40313",
+"id": "9d29c8cde2ec",
 "title": "UFC 334配信はU-NEXT見放題｜日本時間11/15、ガンvsホキット【10月28日掲載】",
 "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0Q3c1Z203a0RyTWlSVkRkaWZTam1pdk5BVERHRU5jMVRkVjlieFQ3X3ZWZTNqYk82QWNaTjFNQkRZTGIxUWNqUlVn?oc=5",
 "source": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
@@ -480,14 +620,14 @@
 "ts": "2026-10-28T13:30:02+09:00"
 },
 {
-"id": "9d29c8cde2ec",
+"id": "5599bee40313",
 "title": "UFC 334配信はU-NEXT見放題｜日本時間11/15、ガンvsホキット【10月28日掲載】",
 "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0Q3c1Z203a0RyTWlSVkRkaWZTam1pdk5BVERHRU5jMVRkVjlieFQ3X3ZWZTNqYk82QWNaTjFNQkRZTGIxUWNqUlVn?oc=5",
 "source": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
 "genre": "mma",
 "cat": "info",
 "desc": "UFC 334配信はU-NEXT見放題｜日本時間11/15、ガンvsホキット【10月28日掲載】 BANGER!!!（バンガー!!!）映画評論・情報サイト",
-"ts": "2026-10-28T13:30:00+09:00"
+"ts": "2026-10-28T13:30:02+09:00"
 },
 {
 "id": "ccd84d7b863e",
@@ -638,16 +778,6 @@
 "cat": "news",
 "desc": "【RIZIN】鹿志村仁之介と太田忍の“馴れ合い”に王者サバテロが強烈ダメ出し「試合当日は殺し合わないと俺が許さない」 オリコンニュース",
 "ts": "2026-10-28T11:08:00+09:00"
-},
-{
-"id": "b10ca6415361",
-"title": "井上尚弥に羨望「あの背筋が欲しい」 肩並べた世界的ミュージシャンが話題「人脈広いっ！無敵」",
-"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zb24zZ3IteG93YXE1TERTakRYQWMyTExOTVNKcmNYY1pFQk1ZMDdQWkFDZk5iOGVVeU5fREpjeGtENmF4WU04VE9wekNDd24yajVLTHg0U0ktT0llTDZ4cEJFZ180SGwwYm96d2130gFzQVVfeXFMTzRER2hWUzZOZ2QwajN2aXNsaHFyelV5NzZkVWNKd29RT01Xa1Y5UUh5andxODhqZjRCTXo0WkRDWjlrTDRyekwwR19nQ281Nnd0WVgtM1hacTdwaElvLWdKbmZBRndMX1Yza3p5LWNYNG9Jcw?oc=5",
-"source": "ｄメニューニュース",
-"genre": "boxing",
-"cat": "news",
-"desc": "井上尚弥に羨望「あの背筋が欲しい」 肩並べた世界的ミュージシャンが話題「人脈広いっ！",
-"ts": "2026-10-28T11:03:00+09:00"
 },
 {
 "id": "4d41b184e55b",
@@ -910,26 +1040,6 @@
 "ts": "2026-10-28T04:54:10+09:00"
 },
 {
-"id": "22dc3419d380",
-"title": "Jasmine Rocha Pre-Match Interview | UFC BJJ 13",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9KZTVtODVzUUxSWkJ2Y3hmQkdrZTJROW9nSkgtNlUtYTFXc3hTaF8zb0VqdHNEZl9jMHdxWEpUNG8xZkNHX2c?oc=5",
-"source": "UFC.com",
-"genre": "mma",
-"cat": "news",
-"desc": "Jasmine Rocha Pre-Match Interview | UFC BJJ 13 UFC.com",
-"ts": "2026-10-28T04:54:10+09:00"
-},
-{
-"id": "57cf9dd90e94",
-"title": "Kleber Barboza Pre-Match Interview | UFC BJJ 13",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UX0hQZ3VpS3oxUVA4RVJMVjN5Sk5pNFN1cmhGdHVjR19jeWdpRjVaZ1V3aTNxcW11Q1BvQXFBdS1mNWRRRlE?oc=5",
-"source": "UFC.com",
-"genre": "mma",
-"cat": "news",
-"desc": "Kleber Barboza Pre-Match Interview | UFC BJJ 13 UFC.com",
-"ts": "2026-10-28T04:54:10+09:00"
-},
-{
 "id": "b00cf4c3a5c0",
 "title": "William Tackett Pre-Match Interview | UFC BJJ 13",
 "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB1MmxnZUk5aGtiNkdCNGFxTFlZOU14cS1TMFNQSzdKMWQ1Y0RHSDBzT0xVblRYUTBsbzdWTzV0MGdGc1pDd2c?oc=5",
@@ -941,26 +1051,6 @@
 },
 {
 "id": "4bfae20c5af8",
-"title": "Jay Rodriguez Pre-Match Interview | UFC BJJ 13",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9rLUhrNzBmVGFWaURaaEI1aEU4UkMxOGEtcFlFSldCRVdyaGNfZXA0Q0VhR3gyRmd0QW53RDFXMG5YX0VlSGc?oc=5",
-"source": "UFC.com",
-"genre": "mma",
-"cat": "news",
-"desc": "Jay Rodriguez Pre-Match Interview | UFC BJJ 13 UFC.com",
-"ts": "2026-10-28T03:56:05+09:00"
-},
-{
-"id": "0d9fec739699",
-"title": "William Tackett Pre-Match Interview | UFC BJJ 13",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB1MmxnZUk5aGtiNkdCNGFxTFlZOU14cS1TMFNQSzdKMWQ1Y0RHSDBzT0xVblRYUTBsbzdWTzV0MGdGc1pDd2c?oc=5",
-"source": "UFC.com",
-"genre": "mma",
-"cat": "news",
-"desc": "William Tackett Pre-Match Interview | UFC BJJ 13 UFC.com",
-"ts": "2026-10-28T03:56:05+09:00"
-},
-{
-"id": "e52880213f43",
 "title": "Jay Rodriguez Pre-Match Interview | UFC BJJ 13",
 "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9rLUhrNzBmVGFWaURaaEI1aEU4UkMxOGEtcFlFSldCRVdyaGNfZXA0Q0VhR3gyRmd0QW53RDFXMG5YX0VlSGc?oc=5",
 "source": "UFC.com",
@@ -991,16 +1081,6 @@
 },
 {
 "id": "fbed7a0d4117",
-"title": "Piera Rodriguez | Next Level",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCd2ZYSjBrRHRrREY0cU9rdUVXOV96UkJ2QmxqSG9MU09lY3hIMFZJOF9aaUpVUTdMaEFPbzM0SUZXSk1YSWc?oc=5",
-"source": "UFC.com",
-"genre": "mma",
-"cat": "news",
-"desc": "Piera Rodriguez | Next Level UFC.com",
-"ts": "2026-10-28T00:59:38+09:00"
-},
-{
-"id": "541b63b2fb34",
 "title": "Piera Rodriguez | Next Level",
 "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCd2ZYSjBrRHRrREY0cU9rdUVXOV96UkJ2QmxqSG9MU09lY3hIMFZJOF9aaUpVUTdMaEFPbzM0SUZXSk1YSWc?oc=5",
 "source": "UFC.com",
@@ -1118,16 +1198,6 @@
 "cat": "result",
 "desc": "【RIZIN】神龍誠、初防衛戦へ「ベルトは死んでも離さない」ララミー対策に自信 イーファイト",
 "ts": "2026-10-27T21:18:45+09:00"
-},
-{
-"id": "e5797d429022",
-"title": "【K-1】皇治が永澤サムエル聖光、里見柚己、朝久裕貴にダメ出し「何にも爪痕残してない」K-1王座を奪取したら「RIZINで防衛戦やる」",
-"link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBScXdnZTRVTGhBSmZsNUM4RDR6WXNtZFhLSGx5bjcwMklrcnlrWmx2NnZER0YwY1BVNm1GMi12Q25JSHBzRnJXSw?oc=5",
-"source": "ゴング格闘技",
-"genre": "general",
-"cat": "result",
-"desc": "【K-1】皇治が永澤サムエル聖光、里見柚己、朝久裕貴にダメ出し「何にも爪痕残してない」K-1王座を奪取したら「RIZINで防衛戦やる」 ゴング格闘技",
-"ts": "2026-10-27T21:10:00+09:00"
 },
 {
 "id": "d8e4383387fa",
@@ -1550,16 +1620,6 @@
 "ts": "2026-10-27T12:45:05+09:00"
 },
 {
-"id": "3c45f62a62d6",
-"title": "【K-1】皇治の約7年ぶり出場が決定、K-1ライト級タイトルマッチで王者・永澤サムエル聖光に挑戦＝12・29横浜BUNTAI『K-1 WORLD MAX 2026』（ゴング格闘技）",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwcGRaSzFtcGVUMGxvNTdnY2RYdUNxUmNxZE5IdDBCWUU3UUpmNWp5V18zX3R5ZWlpUkhIc0ZILXRXT0haRlkyWVlpNUFobURjSVAwOGZpRFAwYVUtdHBiMnFsMGFUS1FObzA3WlhmRnZKbmZ6WTVUNVdoamh5d1E?oc=5",
-"source": "Yahoo!ニュース",
-"genre": "general",
-"cat": "info",
-"desc": "【K-1】皇治の約7年ぶり出場が決定、K-1ライト級タイトルマッチで王者・永澤サムエル聖光に挑戦＝12・29横浜BUNTAI『K-1 WORLD MAX 2026』（ゴング格闘技）…",
-"ts": "2026-10-27T12:45:05+09:00"
-},
-{
 "id": "2a722d8b4606",
 "title": "RIZIN 12.31 名古屋：11月3日（火/祝）17時より名古屋で「大晦日 名古屋大会緊急記者会見」",
 "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wNVNKcWd3bEJ3bTU1ZFZlcUVSQjNaM2NzRTN2ajhYeEZHc2ZFcDRYODNyRm93NlAtOEhmdDNaV2RMT0ZYWjFacVl2eHdaTXc3cXRqZllrekRMQzJOM1R3?oc=5",
@@ -1960,6 +2020,16 @@
 "ts": "2026-10-26T17:00:00+09:00"
 },
 {
+"id": "e5ac21a5352a",
+"title": "ベテラン記者コラム 試合当日に世界戦中止の亀田和毅、フェザー級で井上尚弥への〝発言権〟は…",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRTRmOWJYMWZCa0F4aUZ0MUtFekRYTmNfVmkzZ2I4Q3JPRW5JTXNGajRPajFqUDdzMVhlNkpUdmJDVENySWFOU2VLWlhyUTZIbUdSWDFBUi1nSmVPQzE0b2tMa0M3RzR6eEVQR2tIaHY1ajhwbldGUUFObzhZSzRORzRlN0RrdGtKSFREQlJkSGdrQ1BYQmZGVXJhN25oT3dzcERvY9IBqgFBVV95cUxQSHE0UFJwWU8tMjBZMlpRTk15RXNIUy1IR0dvTU9pQ1VsbWJkdmRWMkRPWTdpMGVSaFBONWh5eWhBYnh3ajFybEh2UTNYSkZRZTJhNEpQcnZ4b0xBRmI3ZzJ6YmZJYVVFdVlkZUZaQmhnWDRrLTRlMm5nNHFsWi1XWG5ZdV9iN2ttb3E0VEwySFlCb1J1OXZLczFBVnZOci1kWmdZZzI4RDhqQQ?oc=5",
+"source": "ｄメニューニュース",
+"genre": "boxing",
+"cat": "news",
+"desc": "ベテラン記者コラム 試合当日に世界戦中止の亀田和毅、フェザー級で井上尚弥への〝発言権〟は… ｄメニューニュース",
+"ts": "2026-10-26T17:00:00+09:00"
+},
+{
 "id": "6ecbf3f5908b",
 "title": "朝倉未来「弟さん、スーパースターですよね？」 “オヤジ版BD”にとんでもない人物が登場でネットも騒然「めっちゃ似てる」",
 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EWmlfLVFoZmNCcENBcElPZGQ5YlZQLUFhdGQ3TWVmb2t4MTZzSVYxWlFPOVFRLVlaX3BFWFIxOGtnZEcyUGE4b3dNOVlTN0QyckdtRnBHVC0yOUVPVE1NNkVFSzFNSFZ2aVhBUzZrS1Q2NEJjejhNMVBKN0lFZ1E?oc=5",
@@ -2148,6 +2218,16 @@
 "cat": "news",
 "desc": "【ボクシング】ウガンダ独裁者の孫、ゴング後に後頭部殴り失格！",
 "ts": "2026-10-26T11:39:00+09:00"
+},
+{
+"id": "3d47469c065a",
+"title": "「え？」「意外な繋がり！」井上尚弥＆拓真、夜の東京湾クルージングを満喫した相手に驚き「マジかよ！羨ましい」",
+"link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5rWEJZYWQ5SktoQm04LWl6bnNmQWRxc1hzZGRNUTVvVW5JV2s2NTR3SGxtU0tna01Mak5ZNjR6a002RkYyVmpYVQ?oc=5",
+"source": "the-ans.jp",
+"genre": "boxing",
+"cat": "news",
+"desc": "「え？",
+"ts": "2026-10-26T11:38:00+09:00"
 },
 {
 "id": "0a3bc5c15312",
@@ -3377,6 +3457,16 @@
 "genre": "boxing",
 "cat": "news",
 "desc": "SHOOT BOXING 2026 act.5 シュートボクシング",
+"ts": "2026-10-24T17:31:18+09:00"
+},
+{
+"id": "ede3f2b2e788",
+"title": "SHOOT BOXING 2026 act.5 - SHOOTBOXING",
+"link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YQldFUW44WUVVbW04WGd0MEV6dzdCcnVCUDBRUW5fZnZfWklmU0dfS0M4WFdXT2d5cVlHZnFRaXBndVlfZ3U3ZzI4dE5PQQ?oc=5",
+"source": "シュートボクシング",
+"genre": "boxing",
+"cat": "news",
+"desc": "SHOOT BOXING 2026 act.5 - SHOOTBOXING シュートボクシング",
 "ts": "2026-10-24T17:31:18+09:00"
 },
 {
@@ -5930,6 +6020,16 @@
 "ts": "2026-10-21T17:29:00+09:00"
 },
 {
+"id": "99f932e7e39b",
+"title": "那須川天心のラジオ生放送中に朝倉未来から突然の電話 | スマートニュース",
+"link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOVFU5a0hQSWRqbGlyU3hBZ3RKN1gwdDN4Ync3ZmQtbVpYeWZFRmZGRzRaSnJ4akoxTW16bTZiMzJIdXIwUnNLSjdDeWVkZmZhdXdtQlpOQnZ0bGo1MU43akRXaUhkRTljX0lnVWtrXzlmbm1mM01rR3dPMFU3WXNYcjlWeGFxVHFCU0ZROWV1d3R5dW05dFJWOWxBMXNZYWR3T3JtYmVrWjUwR3Y3TzV3Wk5Wa19DZFdTTE1uR19qYV9PVEFXb1F4TjNWR3kxZjFudGxFVmFncUZmV21EVDBNVnBzRmc0S0lpSjFTMTc4VjkwWkl6S2tjUjRrbDFKbTNYMlJybXNDaUpXMGxoYXo2eGRBNlhwb1BDNTJkWk1TU2JEbEVORjFuU3VsOV9MNFVNN193d0FNcFd3NEJqTUhNbE12MkFnSVhxbHFvMzAzSHVWNlRESS1JY3pyQ1I5MlA1Z28weGhIMFU5dHpCNEgxSHAtSTFnRWNES3A1Vjl2WUdWdnpBb2RZclpBRlh2MjAtUWlOdWxzRQ?oc=5",
+"source": "SmartNews",
+"genre": "mma",
+"cat": "info",
+"desc": "那須川天心のラジオ生放送中に朝倉未来から突然の電話 | スマートニュース SmartNews",
+"ts": "2026-10-21T17:29:00+09:00"
+},
+{
 "id": "0fcfff4ea514",
 "title": "【総合格闘技・修斗】バックチョークを極められた日本人選手の“失神フェイント”に苦言多く…本人も「すみません」と言及",
 "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44NjhSUGthMDVILXdUaThQRFVldnB2cTlfWEozMDhVMzYtQTFwUkNpT1R6MjJ0cEVKNGN0UThROXZ5V0hkWDAwcXpJV1pma3V4ZUxWdg?oc=5",
@@ -7820,6 +7920,16 @@
 "ts": "2026-10-18T16:00:00+09:00"
 },
 {
+"id": "370ea73240db",
+"title": "井上尚弥に〝上から目線〟 バム陣営の対応に元王者が疑問符「決定権があるぐらいの話し方」（東スポWEB）",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MaXNLek92TGpvVjdDZDg2SDNTb2l5cHhxeGtiMmFlLWZ5bk9nR1FubFhvM2kwaHBXQXhxXzJBRFV3UHk5eWZzaHhmbm13eDc5Y21seFdRZXZjRV9CSmJ0RWQ2azZmT2hZSXNQWnZHQlQxamE1YV91dEUxd1ZrLW8?oc=5",
+"source": "Yahoo!ニュース",
+"genre": "boxing",
+"cat": "info",
+"desc": "井上尚弥に〝上から目線〟 バム陣営の対応に元王者が疑問符「決定権があるぐらいの話し方」（東スポWEB） Yahoo!ニュース",
+"ts": "2026-10-18T16:00:00+09:00"
+},
+{
 "id": "0ee0cc504974",
 "title": "【ONE】秋元皓貴にTKO勝ちで防衛成功した王者ハガティ―、次はナビル・アナンとの防衛戦か、ムエタイ王座との二種目制覇へ「この階級で私が世界最強なのは間違いない」",
 "link": "https://gonkaku.jp/articles/25157",
@@ -7888,115 +7998,5 @@
 "cat": "news",
 "desc": "春日井“寒天”たけしのヘッドコーチ論「選手の“親父”みたいな存在になりてえなって」：Dropkick ニコニコチャンネル",
 "ts": "2026-10-18T12:09:00+09:00"
-},
-{
-"id": "8f1bbd9bb2e6",
-"title": "【UFN291】カウンター一閃！マロットが鮮やかな右のヒザ蹴りでバックリーにKO勝ち",
-"link": "https://mmaplanet.jp/241283?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590ufn291%25e3%2580%2591%25e3%2582%25ab%25e3%2582%25a6%25e3%2583%25b3%25e3%2582%25bf%25e3%2583%25bc%25e4%25b8%2580%25e9%2596%2583%25ef%25bc%2581%25e3%2583%259e%25e3%2583%25ad%25e3%2583%2583%25e3%2583%2588%25e3%2581%258c%25e9%25ae%25ae%25e3%2582%2584%25e3%2581%258b%25e3%2581%25aa%25e5%258f%25b3%25e3%2581%25ae",
-"source": "MMAPLANET",
-"genre": "mma",
-"cat": "result",
-"desc": "＜ウェルター級／5分5R＞ マイク・マロット（カナダ） Def.2R2分32秒 by KO ジョアキン・バックリー（米国） サウスポーのバックリーがジャブを見せて左右に動く。",
-"ts": "2026-10-18T12:07:05+09:00"
-},
-{
-"id": "e7782bcb8e6c",
-"title": "【UFN291】ジュスダヴィチェスが1R&2Rにバックを制し、ブランチフィールドに地元カナダで判定勝ち",
-"link": "https://mmaplanet.jp/241276?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590ufn291%25e3%2580%2591%25e3%2582%25b8%25e3%2583%25a5%25e3%2582%25b9%25e3%2583%2580%25e3%2583%25b4%25e3%2582%25a3%25e3%2583%2581%25e3%2582%25a7%25e3%2582%25b9%25e3%2581%258c1r2r%25e3%2581%25ab%25e3%2583%2590%25e3%2583%2583%25e3%2582%25af%25e3%2582%2592%25e5%2588%25b6%25e3%2581%2597%25e3%2580%2581%25e3%2583%2596",
-"source": "MMAPLANET",
-"genre": "mma",
-"cat": "result",
-"desc": "＜女子フライ級／5分3R＞ ジャスミン・ジュスダヴィチェス（カナダ） Def.3-0:29-28.29-28.29-28. エリン・ブランチフィールド（米国） 左ジャブを突いて右に回るブランチフィールド。",
-"ts": "2026-10-18T11:19:43+09:00"
-},
-{
-"id": "886be574facd",
-"title": "【UFC】DWCSから2カ月、クリスチャン・ペレスがイナナリロールからスタンドで首相撲ヒザ、左アッパーでカイル・ネルソンを27秒 KO",
-"link": "https://gonkaku.jp/articles/25154",
-"source": "ゴング格闘技",
-"genre": "general",
-"cat": "result",
-"desc": "2026年10月17日（日本時間18日）、カナダ・エドモントンのロジャーズ・プレイスにて『UFC Fight Night: Buckley vs. Malott』（ U-NEXT…",
-"ts": "2026-10-18T11:05:02+09:00"
-},
-{
-"id": "bff08c13b5f9",
-"title": "【UFN291】ぺレスがイマナリロールも繰り出し、ネルソンを首相撲からのヒザ蹴り→左右のフックで秒殺KO",
-"link": "https://mmaplanet.jp/241269?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590ufn291%25e3%2580%2591%25e3%2581%25ba%25e3%2583%25ac%25e3%2582%25b9%25e3%2581%258c%25e3%2582%25a4%25e3%2583%259e%25e3%2583%258a%25e3%2583%25aa%25e3%2583%25ad%25e3%2583%25bc%25e3%2583%25ab%25e3%2582%2582%25e7%25b9%25b0%25e3%2582%258a%25e5%2587%25ba%25e3%2581%2597%25e3%2580%2581%25e3%2583%258d%25e3%2583%25ab",
-"source": "MMAPLANET",
-"genre": "mma",
-"cat": "result",
-"desc": "＜ライト級／5分3R＞ クリスチャン・ペレス（メキシコ） Def.1R0分27秒 by KO カイル・ネルソン（カナダ） いきなりぺレスがイマナリロールで飛び込む。",
-"ts": "2026-10-18T10:40:14+09:00"
-},
-{
-"id": "21d53af1be6b",
-"title": "「ボクシング界は死んだ」 亀田災難、失態の相手に批判殺到「厳しく対処を」「相当な変革必要」（THE ANSWER）",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12Sl8xQWZHOFFoQU9iLVJINHp6ZUFxczNxazdqay11a2liaTNka21tSGk2VWZDbWFjdFBXYmhNNEItbEp3UmRmVmQybVp1UWlrUUthTzJFX19NUzRBOWZFb3g5Ynptd2pqeXpINjZhQ2NULUlzUGRBaEVteWNfSkU?oc=5",
-"source": "Yahoo!ニュース",
-"genre": "boxing",
-"cat": "news",
-"desc": "「ボクシング界は死んだ」 亀田災難、失態の相手に批判殺到「厳しく対処を」「相当な変革必要」（THE ANSWER） Yahoo!ニュース",
-"ts": "2026-10-18T10:30:08+09:00"
-},
-{
-"id": "9942385145e9",
-"title": "亀田和毅の世界戦は中止に ボクシング 相手体調不良、体重超過のため王座剝奪",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfMTJLSU9wbjY0eHpvNGQ5OG1wX2JzcWxxdVVGTGoxSzlBNjQ0MC15Vlp4WGtYS2FUT1ZfVGlLWmh0WkxNUmR4RVhYMVAwOGt4OUtfc01sLU5Ja0FVanBUaVdILWFkd0lhWDc1QkZNN1NORHF5cUE?oc=5",
-"source": "産経ニュース",
-"genre": "boxing",
-"cat": "result",
-"desc": "亀田和毅の世界戦は中止に ボクシング 相手体調不良、体重超過のため王座剝奪 産経ニュース",
-"ts": "2026-10-18T10:10:58+09:00"
-},
-{
-"id": "06f1cb199d6f",
-"title": "ボクシング＝亀田和毅のタイトルマッチ、相手の体調不良で当日中止に（ロイター）",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JUFRWdDRpbUlWVVJqUFFGRkxRSzhDcmFtQmZNZm9VSzNsbUZvRzRXOGVzTHFyRUZXdnZRdV9JcXhhSmpmSldxRm9PdDF5Z0tOWTJ1dmRSUE9XRE9Kc1B3NjU2b1pFU3JEWnBpUW1Mb1ppa1hra0hsMVRDYjJhX0U?oc=5",
-"source": "Yahoo!ニュース",
-"genre": "boxing",
-"cat": "info",
-"desc": "ボクシング＝亀田和毅のタイトルマッチ、相手の体調不良で当日中止に（ロイター） Yahoo!ニュース",
-"ts": "2026-10-18T10:10:25+09:00"
-},
-{
-"id": "d9ced19fc25e",
-"title": "【UFN291】ジョーダンのスイッチ&ローを狙って組んだクアンバ。2Rにネッククランクで仕留める",
-"link": "https://mmaplanet.jp/241265?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590ufn291%25e3%2580%2591%25e3%2582%25b8%25e3%2583%25a7%25e3%2583%25bc%25e3%2583%2580%25e3%2583%25b3%25e3%2581%25ae%25e3%2582%25b9%25e3%2582%25a4%25e3%2583%2583%25e3%2583%2581%25e3%2583%25ad%25e3%2583%25bc%25e3%2582%2592%25e7%258b%2599%25e3%2581%25a3%25e3%2581%25a6%25e7%25b5%2584%25e3%2582%2593%25e3%2581%25a0",
-"source": "MMAPLANET",
-"genre": "mma",
-"cat": "news",
-"desc": "＜バンタム級／5分3R＞ ティミー・クアンバ（米国） Def.2R2分48秒 by ネッククランク ルイス・ジョーダン（カナダ） クアンバはグローブタッチせず。",
-"ts": "2026-10-18T10:03:25+09:00"
-},
-{
-"id": "0d6ce4adbf52",
-"title": "【UFC】元DEEP＆BLACK COMBAT王者ユ・スヨンがコヴェンチェクにキムラで一本勝ち！ UFC3勝1敗に",
-"link": "https://gonkaku.jp/articles/25153",
-"source": "ゴング格闘技",
-"genre": "general",
-"cat": "result",
-"desc": "2026年10月17日（日本時間18日）、カナダ・エドモントンのロジャーズ・プレイスにて『UFC Fight Night: Buckley vs. Malott』（ U-NEXT…",
-"ts": "2026-10-18T09:40:20+09:00"
-},
-{
-"id": "1119513edca2",
-"title": "安保瑠輝也が9回連続失敗、ONE独自の“ハイドレーションテスト”とは 背景に死亡事故…CEOは継続強調「95%の選手は問題なくパス」",
-"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsNTYxNnAxN0V0Y1ViT2g2MTZMdGFYaGJ2YWQtRmtJQy1scC1vSnZoM0JXVnJ5aHc2TEpqUUdUVGJwM25kV2xSSGZhX2Zjbm43eVZDY0VXNnpScnB1R0V2UlBGXy1HdzBBQ2VJYWhR?oc=5",
-"source": "au Webポータル",
-"genre": "general",
-"cat": "news",
-"desc": "安保瑠輝也が9回連続失敗、ONE独自の“ハイドレーションテスト”とは 背景に死亡事故…CEOは継続強調「95%の選手は問題なくパス」 au Webポータル",
-"ts": "2026-10-18T09:38:00+09:00"
-},
-{
-"id": "017142ca1f27",
-"title": "宮古島から初のＡ級誕生／ボクシングレフリー・ジャッジ",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84ZjFDRU5KZHhPcFBueTg4QURybUVoVl9RNmJqWFRjQnE4OXJvTUZoZXZNQWp1YUhNcFBHdF8yWU5VRWFQTFlMNVhvbEY2cFpCcm9lRi1iN21pT2JL?oc=5",
-"source": "宮古毎日新聞社ホームページ",
-"genre": "boxing",
-"cat": "news",
-"desc": "宮古島から初のＡ級誕生／ボクシングレフリー・ジャッジ 宮古毎日新聞社ホームページ",
-"ts": "2026-10-18T09:00:00+09:00"
 }
 ]
